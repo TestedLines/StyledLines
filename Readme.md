@@ -4,7 +4,7 @@ GPT2-Based Text Stylization Model with Llama.cpp Wrapper in form of a Unity3d As
 
 This repository provides a GPT2-based text stylization LLM model, wrapped with Llama.cpp to ensure compatibility across various platforms, including iOS and WebGL. The model is designed to transform generic texts into stylized, game or user-tailored dialogue.
 
-## purpous of this repo
+## purpose of this repo
 Please do post issues you find in our docs/code/other stuff here.
 
 ## Features
