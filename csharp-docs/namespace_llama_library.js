@@ -1,0 +1,47 @@
+var namespace_llama_library =
+[
+    [ "AsyncLlamaInfrence", "class_llama_library_1_1_async_llama_infrence.html", "class_llama_library_1_1_async_llama_infrence" ],
+    [ "CallbackWrapper", "class_llama_library_1_1_callback_wrapper.html", "class_llama_library_1_1_callback_wrapper" ],
+    [ "FileWrapper", "class_llama_library_1_1_file_wrapper.html", "class_llama_library_1_1_file_wrapper" ],
+    [ "gpt_params", "class_llama_library_1_1gpt__params.html", "class_llama_library_1_1gpt__params" ],
+    [ "Int32s", "class_llama_library_1_1_int32s.html", "class_llama_library_1_1_int32s" ],
+    [ "libllama_lib", "class_llama_library_1_1libllama__lib.html", "class_llama_library_1_1libllama__lib" ],
+    [ "libllama_libPINVOKE", "class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html", "class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e" ],
+    [ "llama_sampling_params", "class_llama_library_1_1llama__sampling__params.html", "class_llama_library_1_1llama__sampling__params" ],
+    [ "LlamaControlVectorLoadInfos", "class_llama_library_1_1_llama_control_vector_load_infos.html", "class_llama_library_1_1_llama_control_vector_load_infos" ],
+    [ "LlamaInfrence", "class_llama_library_1_1_llama_infrence.html", "class_llama_library_1_1_llama_infrence" ],
+    [ "LoggingContext", "class_llama_library_1_1_logging_context.html", "class_llama_library_1_1_logging_context" ],
+    [ "StringAndFloat", "class_llama_library_1_1_string_and_float.html", "class_llama_library_1_1_string_and_float" ],
+    [ "Strings", "class_llama_library_1_1_strings.html", "class_llama_library_1_1_strings" ],
+    [ "StringsAndFloats", "class_llama_library_1_1_strings_and_floats.html", "class_llama_library_1_1_strings_and_floats" ],
+    [ "SWIGTYPE_p_AsyncLlamaInfrence__LlamaAsyncImpl", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___async_llama_infrence_____llama_async_impl.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___async_llama_infrence_____llama_async_impl" ],
+    [ "SWIGTYPE_p_float", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__float.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__float" ],
+    [ "SWIGTYPE_p_ggml_backend_sched_eval_callback", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__ggml__backend__sched__eval__callback.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__ggml__backend__sched__eval__callback" ],
+    [ "SWIGTYPE_p_ggml_numa_strategy", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__ggml__numa__strategy.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__ggml__numa__strategy" ],
+    [ "SWIGTYPE_p_llama_control_vector_load_info", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__llama__control__vector__load__info.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__llama__control__vector__load__info" ],
+    [ "SWIGTYPE_p_llama_sampling_params", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__llama__sampling__params.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__llama__sampling__params" ],
+    [ "SWIGTYPE_p_LlamaInfrence__LlamaImpl", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___llama_infrence_____llama_impl.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___llama_infrence_____llama_impl" ],
+    [ "SWIGTYPE_p_LoggingContext__LoggingContextPimpl", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___logging_context_____logging_context_pimpl.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___logging_context_____logging_context_pimpl" ],
+    [ "SWIGTYPE_p_std__unordered_mapT_llama_token_float_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____unordered__map_t__llama__token__float__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____unordered__map_t__llama__token__float__t" ],
+    [ "SWIGTYPE_p_std__vectorT_llama_model_kv_override_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__model__kv__override__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__model__kv__override__t" ],
+    [ "SWIGTYPE_p_std__vectorT_llama_sampler_type_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__sampler__type__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__sampler__type__t" ],
+    [ "SWIGTYPE_p_std__vectorT_llama_token_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__token__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__token__t" ],
+    [ "SWIGTYPE_p_std__vectorT_std__tupleT_std__string_float_t_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t" ],
+    [ "SWIGTYPE_p_void", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__void.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__void" ],
+    [ "dimre_method", "namespace_llama_library.html#a0700d4be408eb0985a7873e9c300953b", [
+      [ "DIMRE_METHOD_PCA", "namespace_llama_library.html#a0700d4be408eb0985a7873e9c300953ba8681eb325622c6c4a4ce31c989d19580", null ],
+      [ "DIMRE_METHOD_MEAN", "namespace_llama_library.html#a0700d4be408eb0985a7873e9c300953ba9a573da180aec7b15be5675664d1ad62", null ]
+    ] ],
+    [ "llama_sampler_type", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7f", [
+      [ "TOP_K", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7fab29bc294187f1315a7222f6573e99d06", null ],
+      [ "TOP_P", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7faef9a50ea08d50dde820e81392c6f68dd", null ],
+      [ "MIN_P", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7fa418319e1a63fb67a1b1ee1510c21e517", null ],
+      [ "TFS_Z", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7fa188233cd48c23aa82c4123431e34499d", null ],
+      [ "TYPICAL_P", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7fa7cc66dc5a502f4dd6c97331197ee993a", null ],
+      [ "TEMPERATURE", "namespace_llama_library.html#a709f31f902d3745794f84f248680fa7fab976538812ef6e3e5881e245d5fc3c76", null ]
+    ] ],
+    [ "SWIGTYPE_llama_attention_type", "namespace_llama_library.html#ac24d60a94f1f17f2d0f4b8f48342c55d", null ],
+    [ "SWIGTYPE_llama_pooling_type", "namespace_llama_library.html#a8adb0c4615efea9f0477edf986c3acb8", null ],
+    [ "SWIGTYPE_llama_rope_scaling_type", "namespace_llama_library.html#a657bbda702adaf0c82c92ef868b16ba4", null ],
+    [ "SWIGTYPE_llama_split_mode", "namespace_llama_library.html#a36c5101ff255cffe08e16ff54aa6fe2f", null ]
+];

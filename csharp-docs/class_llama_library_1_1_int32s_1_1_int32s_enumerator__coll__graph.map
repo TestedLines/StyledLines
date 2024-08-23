@@ -1,0 +1,17 @@
+<map id="LlamaLibrary.Int32s.Int32sEnumerator" name="LlamaLibrary.Int32s.Int32sEnumerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,1121,612,1327"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,563,248,629"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,642,147,724,170,831,208,947,233,1004,262,1057,285,1089,312,1119,308,1123,281,1093,258,1060,228,1006,203,949,165,832,142,725,129,643"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="273,563,607,629"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,642,443,1121,437,1121,437,642"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1_int32s.html" title=" " alt="" coords="632,133,1400,1059"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="634,1047,621,1061,568,1112,565,1108,617,1057,630,1043"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="556,5,724,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="671,80,706,131,701,134,667,83"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="748,5,993,71"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="885,83,898,132,893,134,880,84"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1017,5,1305,71"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1152,84,1139,134,1134,132,1147,83"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1330,5,1433,71"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1363,72,1331,121,1327,118,1358,69"/>
+</map>

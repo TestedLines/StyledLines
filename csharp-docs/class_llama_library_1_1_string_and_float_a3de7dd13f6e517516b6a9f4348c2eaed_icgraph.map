@@ -1,0 +1,15 @@
+<map id="LlamaLibrary.StringAndFloat.getCPtr" name="LlamaLibrary.StringAndFloat.getCPtr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="652,104,887,129"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_strings_and_floats.html#a040fc7eb962d0bb58697fdd36f6660ec" title=" " alt="" coords="367,29,594,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="717,102,603,69,553,57,554,52,605,63,719,97"/>
+<area shape="rect" id="Node000005" href="$class_llama_library_1_1_strings_and_floats.html#a4f7b6ee65b85130dd07db32cf3b5a5a1" title=" " alt="" coords="363,79,599,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="638,108,598,104,599,99,638,103"/>
+<area shape="rect" id="Node000006" href="$class_llama_library_1_1_strings_and_floats.html#a58ee0d05d6195c3cb3408face92df765" title=" " alt="" coords="358,128,603,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="638,130,604,133,603,128,638,125"/>
+<area shape="rect" id="Node000007" href="$class_llama_library_1_1_strings_and_floats.html#a7b4f698153dd216136c7df08c39a6f4f" title=" " alt="" coords="357,177,604,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="715,136,605,167,549,180,547,175,603,162,714,131"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1_strings_and_floats.html#a5c9646133ce9277eb6e9ff67f73c77fc" title=" " alt="" coords="5,5,309,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,35,309,32,310,27,354,30"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1_strings_and_floats.html#a8b5e4d9199d5843ed34e475c4e363936" title=" " alt="" coords="5,55,309,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,55,310,58,309,53,353,49"/>
+</map>

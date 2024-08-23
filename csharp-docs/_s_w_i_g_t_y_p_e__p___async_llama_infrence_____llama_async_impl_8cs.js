@@ -1,0 +1,4 @@
+var _s_w_i_g_t_y_p_e__p___async_llama_infrence_____llama_async_impl_8cs =
+[
+    [ "LlamaLibrary.SWIGTYPE_p_AsyncLlamaInfrence__LlamaAsyncImpl", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___async_llama_infrence_____llama_async_impl.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p___async_llama_infrence_____llama_async_impl" ]
+];

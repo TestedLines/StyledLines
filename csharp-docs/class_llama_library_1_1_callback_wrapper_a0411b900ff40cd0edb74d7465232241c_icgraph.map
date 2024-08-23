@@ -1,0 +1,7 @@
+<map id="LlamaLibrary.CallbackWrapper.RegisterTokenCallback" name="LlamaLibrary.CallbackWrapper.RegisterTokenCallback">
+<area shape="rect" id="Node000001" title="Registers a token callback function for the Llama model." alt="" coords="260,31,596,56"/>
+<area shape="rect" id="Node000002" href="$class_model_controller.html#a1fc046dc8dd8428ecb7a0c797b423397" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,32,212,29,212,24,255,27"/>
+<area shape="rect" id="Node000003" href="$class_run_model_async.html#a57b42f3e7a40dd687a32b1e62f2ce96a" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="34,55,183,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,60,184,64,183,59,246,54"/>
+</map>

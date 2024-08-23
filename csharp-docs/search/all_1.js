@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['a_20look_20at_0',['Types to First Take a Look At',['../index.html#autotoc_md10',1,'']]],
+  ['add_1',['Add',['../class_llama_library_1_1_int32s.html#a6ae905bf2d1a968b874b19bad350ae8d',1,'LlamaLibrary.Int32s.Add()'],['../class_llama_library_1_1_llama_control_vector_load_infos.html#a222cdf8694abce8cdc9977d8872b52c5',1,'LlamaLibrary.LlamaControlVectorLoadInfos.Add()'],['../class_llama_library_1_1_strings.html#a15ec0d9fb2be8f678a934d3a6c25fbb9',1,'LlamaLibrary.Strings.Add()'],['../class_llama_library_1_1_strings_and_floats.html#a040fc7eb962d0bb58697fdd36f6660ec',1,'LlamaLibrary.StringsAndFloats.Add()']]],
+  ['addframeworkspostbuild_2',['AddFrameworksPostBuild',['../class_add_frameworks_post_build.html',1,'']]],
+  ['addframeworkspostbuild_2ecs_3',['AddFrameworksPostBuild.cs',['../_add_frameworks_post_build_8cs.html',1,'']]],
+  ['addrange_4',['AddRange',['../class_llama_library_1_1_int32s.html#a00f82b3d4455f377c690db3e37b33981',1,'LlamaLibrary.Int32s.AddRange()'],['../class_llama_library_1_1_llama_control_vector_load_infos.html#a1ff927baebca9535db0408ebb5ccee93',1,'LlamaLibrary.LlamaControlVectorLoadInfos.AddRange()'],['../class_llama_library_1_1_strings.html#aac25da136097b3971ac9a136a27f9407',1,'LlamaLibrary.Strings.AddRange()'],['../class_llama_library_1_1_strings_and_floats.html#a0e6cccd1aafc594544cb1d82ac824d51',1,'LlamaLibrary.StringsAndFloats.AddRange()']]],
+  ['antiprompt_5',['antiprompt',['../class_llama_library_1_1gpt__params.html#a3a8871d4329bd5e61071556b8e6e5022',1,'LlamaLibrary::gpt_params']]],
+  ['api_5fkeys_6',['api_keys',['../class_llama_library_1_1gpt__params.html#a26694c5770fd48c909a9f038a8840598',1,'LlamaLibrary::gpt_params']]],
+  ['applicationdelegate_7',['applicationDelegate',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html#a63beeb5370ea91a23254949181463ef6',1,'LlamaLibrary::libllama_libPINVOKE::SWIGExceptionHelper']]],
+  ['argumentdelegate_8',['argumentDelegate',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html#a92221de9f31123f77ea26d5239d9b610',1,'LlamaLibrary::libllama_libPINVOKE::SWIGExceptionHelper']]],
+  ['argumentnulldelegate_9',['argumentNullDelegate',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html#acc407fe0c8ad192ddfd9354748c4f0f1',1,'LlamaLibrary::libllama_libPINVOKE::SWIGExceptionHelper']]],
+  ['argumentoutofrangedelegate_10',['argumentOutOfRangeDelegate',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html#ad3debd9e80a7d3190c2a2986df19e684',1,'LlamaLibrary::libllama_libPINVOKE::SWIGExceptionHelper']]],
+  ['arithmeticdelegate_11',['arithmeticDelegate',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html#ab675f06478b94c9f09a5817ea4192fe7',1,'LlamaLibrary::libllama_libPINVOKE::SWIGExceptionHelper']]],
+  ['asyncllamainfrence_12',['AsyncLlamaInfrence',['../class_llama_library_1_1_async_llama_infrence.html',1,'LlamaLibrary.AsyncLlamaInfrence'],['../class_llama_library_1_1_async_llama_infrence.html#a59c93b96f179c9f942fb4f7c7d513843',1,'LlamaLibrary.AsyncLlamaInfrence.AsyncLlamaInfrence(global::System.IntPtr cPtr, bool cMemoryOwn)'],['../class_llama_library_1_1_async_llama_infrence.html#a0ca5418f287b94f995988a09bca77072',1,'LlamaLibrary.AsyncLlamaInfrence.AsyncLlamaInfrence()']]],
+  ['asyncllamainfrence_2ecs_13',['AsyncLlamaInfrence.cs',['../_async_llama_infrence_8cs.html',1,'']]],
+  ['asyncllamainfrence_5fclearalltasks_14',['AsyncLlamaInfrence_ClearAllTasks',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a2f53a97907e98d1a0f9a3dc20ba66401',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fgenerateasync_15',['AsyncLlamaInfrence_GenerateAsync',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#af55b1afde0c97563b362f3a6df224c4e',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fgetgenerationresults_16',['AsyncLlamaInfrence_GetGenerationResults',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a2bdcb309c17221cae862eee0ad62128e',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fgetsetupresults_17',['AsyncLlamaInfrence_GetSetupResults',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#ac8b07d1f992d80aa6142607946dd4595',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fisgenerationready_18',['AsyncLlamaInfrence_IsGenerationReady',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#ab50bb460cfde70a6f5eb120b81102ab9',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fpimpl_5fget_19',['AsyncLlamaInfrence_pImpl_get',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a44211173e57f3c6ecc69266ef3c65410',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fpimpl_5fset_20',['AsyncLlamaInfrence_pImpl_set',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#afe9fd95965f0d50328a18dc5b06bf760',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['asyncllamainfrence_5fsetupasync_21',['AsyncLlamaInfrence_SetupAsync',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a3e629604030c518ff63457e5c5d03455',1,'LlamaLibrary::libllama_libPINVOKE']]],
+  ['at_22',['Types to First Take a Look At',['../index.html#autotoc_md10',1,'']]],
+  ['attention_5ftype_23',['attention_type',['../class_llama_library_1_1gpt__params.html#a149a3ad4225f543ce7bf8dcfed23b2d6',1,'LlamaLibrary::gpt_params']]]
+];

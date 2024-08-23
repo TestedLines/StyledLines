@@ -1,0 +1,4 @@
+var _s_w_i_g_t_y_p_e__p__std____vector_t__llama__sampler__type__t_8cs =
+[
+    [ "LlamaLibrary.SWIGTYPE_p_std__vectorT_llama_sampler_type_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__sampler__type__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__sampler__type__t" ]
+];

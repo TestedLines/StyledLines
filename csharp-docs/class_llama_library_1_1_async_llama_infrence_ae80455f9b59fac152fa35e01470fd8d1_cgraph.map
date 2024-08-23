@@ -1,0 +1,7 @@
+<map id="LlamaLibrary.AsyncLlamaInfrence.GenerateAsync" name="LlamaLibrary.AsyncLlamaInfrence.GenerateAsync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,316,56"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#af55b1afde0c97563b362f3a6df224c4e" title=" " alt="" coords="364,5,804,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="316,31,358,29,359,34,316,37"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" title=" " alt="" coords="376,55,792,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,49,362,52,362,57,316,55"/>
+</map>

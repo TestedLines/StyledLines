@@ -1,0 +1,4 @@
+var _s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t_8cs =
+[
+    [ "LlamaLibrary.SWIGTYPE_p_std__vectorT_std__tupleT_std__string_float_t_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t" ]
+];

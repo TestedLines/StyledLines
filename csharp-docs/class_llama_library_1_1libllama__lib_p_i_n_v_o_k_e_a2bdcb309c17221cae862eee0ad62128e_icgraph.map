@@ -1,0 +1,19 @@
+<map id="LlamaLibrary.libllama_libPINVOKE.AsyncLlamaInfrence_GetGenerationResults" name="LlamaLibrary.libllama_libPINVOKE.AsyncLlamaInfrence_GetGenerationResults">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1061,55,1540,80"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html#a74d73cee873a2080edfa0d915f367d30" title=" " alt="" coords="664,55,1013,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1048,70,1014,70,1014,65,1048,65"/>
+<area shape="rect" id="Node000003" href="$class_minimal_example.html#a6fcfb230b695e8538e9269424221cd81" title="Coroutine to handle the asynchronous generation of text from the language model. Coroutines allow the..." alt="" coords="417,5,616,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="741,55,600,33,601,28,742,50"/>
+<area shape="rect" id="Node000005" href="$class_dialog_manager.html#a58ce81209f0fe6b90708dc9503bc97cd" title="Coroutine that displays the next line of dialog, handles looping, and manages the dialog&#39;s progressio..." alt="" coords="419,55,614,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="650,70,614,70,614,65,650,65"/>
+<area shape="rect" id="Node000009" href="$class_run_model_async.html#a416b9916ecea216a4a454df6993acb1f" title="Method called every frame to update the state of the model and handle output." alt="" coords="435,104,598,129"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="742,85,599,107,598,102,741,79"/>
+<area shape="rect" id="Node000004" href="$class_minimal_example.html#a3a9cb32f2a8522aa2a5174d8d12732f3" title="The Start method is called when the script instance is being loaded. It initializes the ModelControll..." alt="" coords="206,5,357,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,21,357,21,357,15,403,15"/>
+<area shape="rect" id="Node000006" href="$class_dialog_manager.html#ad32c4cce175c0c1b0f15049695fa7948" title="Starts the dialog sequence, setting the initial index and activating the dialog." alt="" coords="193,55,369,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="405,70,370,70,370,65,405,65"/>
+<area shape="rect" id="Node000008" href="$class_dialog_manager.html#a79957ecbbb9b70e0a2a4e66ef206a498" title="Called every frame; updates dialog progression and rotates text objects to face the camera." alt="" coords="205,104,358,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="443,85,343,107,342,101,442,80"/>
+<area shape="rect" id="Node000007" href="$class_dialog_manager.html#a03c8a9834097fe6f3c636076a97563c8" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,55,145,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="180,70,145,70,145,65,180,65"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="DisableWhileNotConfigured.SetUIObjectsActive" name="DisableWhileNotConfigured.SetUIObjectsActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="629,31,924,56"/>
+<area shape="rect" id="Node000002" href="$class_disable_while_not_configured.html#a3d90809cbb6767eee937856f545ddb9d" title=" " alt="" coords="299,5,581,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="616,34,582,31,582,26,616,29"/>
+<area shape="rect" id="Node000004" href="$class_disable_while_not_configured.html#a464cc4484afc503a5722b1c85ee99597" title=" " alt="" coords="23,55,233,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="616,52,234,66,234,61,615,47"/>
+<area shape="rect" id="Node000003" href="$class_disable_while_not_configured.html#a7082b33f3b89215ee054d1a48ce0d54a" title=" " alt="" coords="5,5,251,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,21,251,21,251,15,285,15"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="346,35,210,57,209,52,345,30"/>
+</map>

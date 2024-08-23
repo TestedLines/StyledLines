@@ -1,0 +1,9 @@
+<map id="DialogManager.ShowNextLine" name="DialogManager.ShowNextLine">
+<area shape="rect" id="Node000001" title="Coroutine that displays the next line of dialog, handles looping, and manages the dialog&#39;s progressio..." alt="" coords="417,31,612,56"/>
+<area shape="rect" id="Node000002" href="$class_dialog_manager.html#ad32c4cce175c0c1b0f15049695fa7948" title="Starts the dialog sequence, setting the initial index and activating the dialog." alt="" coords="193,5,369,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,34,369,30,370,25,404,29"/>
+<area shape="rect" id="Node000004" href="$class_dialog_manager.html#a79957ecbbb9b70e0a2a4e66ef206a498" title="Called every frame; updates dialog progression and rotates text objects to face the camera." alt="" coords="205,55,358,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,57,359,62,358,57,403,52"/>
+<area shape="rect" id="Node000003" href="$class_dialog_manager.html#a03c8a9834097fe6f3c636076a97563c8" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,5,145,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,21,145,21,145,15,180,15"/>
+</map>

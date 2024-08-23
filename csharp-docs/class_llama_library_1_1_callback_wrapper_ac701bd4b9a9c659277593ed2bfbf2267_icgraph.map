@@ -1,0 +1,7 @@
+<map id="LlamaLibrary.CallbackWrapper.SetLogCallback" name="LlamaLibrary.CallbackWrapper.SetLogCallback">
+<area shape="rect" id="Node000001" title="Sets the log callback function for the native library." alt="" coords="573,5,868,31"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_callback_wrapper.html#a4206d466b5e3e4a6c95c04e2df4640ce" title="Registers a log callback function for the Llama model." alt="" coords="203,5,525,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="560,21,525,21,525,15,560,15"/>
+<area shape="rect" id="Node000003" href="$class_run_model_async.html#a57b42f3e7a40dd687a32b1e62f2ce96a" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="5,5,155,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,21,155,21,155,15,189,15"/>
+</map>

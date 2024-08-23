@@ -1,0 +1,9 @@
+<map id="LlamaLibrary.Int32s.InsertRange" name="LlamaLibrary.Int32s.InsertRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,213,80"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_int32s.html#af513ab0e44144d369d5633a60a2aaa24" title=" " alt="" coords="378,5,561,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,52,261,39,364,26,365,32,262,45,182,57"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a7db569d6c15b24f3c88bd57238fee609" title=" " alt="" coords="301,55,638,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,65,287,65,287,70,214,70"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" title=" " alt="" coords="261,104,677,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,77,262,89,345,100,345,105,261,94,186,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MinimalExample.GenerateLine" name="MinimalExample.GenerateLine">
+<area shape="rect" id="Node000001" title="Coroutine to handle the asynchronous generation of text from the language model. Coroutines allow the..." alt="" coords="204,5,403,31"/>
+<area shape="rect" id="Node000002" href="$class_minimal_example.html#a3a9cb32f2a8522aa2a5174d8d12732f3" title="The Start method is called when the script instance is being loaded. It initializes the ModelControll..." alt="" coords="5,5,156,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,21,157,21,157,15,190,15"/>
+</map>

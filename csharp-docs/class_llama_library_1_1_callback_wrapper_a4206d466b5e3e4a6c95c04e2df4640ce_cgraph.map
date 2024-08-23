@@ -1,0 +1,7 @@
+<map id="LlamaLibrary.CallbackWrapper.RegisterLogCallback" name="LlamaLibrary.CallbackWrapper.RegisterLogCallback">
+<area shape="rect" id="Node000001" title="Registers a log callback function for the Llama model." alt="" coords="5,31,328,56"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_callback_wrapper.html#ac701bd4b9a9c659277593ed2bfbf2267" title="Sets the log callback function for the native library." alt="" coords="383,5,677,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,29,369,27,369,32,328,35"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1_callback_wrapper.html#a6bd607fe69c92146a8f31cb3a63055d6" title="Static method to handle the log callback from the native library." alt="" coords="376,55,684,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,51,363,54,362,59,328,57"/>
+</map>

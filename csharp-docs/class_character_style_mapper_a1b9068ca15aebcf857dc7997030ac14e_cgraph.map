@@ -1,0 +1,10 @@
+<map id="CharacterStyleMapper.Start" name="CharacterStyleMapper.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,188,81"/>
+<area shape="rect" id="Node000002" href="$class_character_style_mapper.html#afb15d22f0b368b59f006d762b891c7dc" title=" " alt="" coords="236,5,515,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,53,291,31,292,36,168,59"/>
+<area shape="rect" id="Node000003" href="$class_character_style_mapper.html#ae997bee0f431487d783a016735adb2de" title=" " alt="" coords="563,31,824,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="188,62,549,47,549,52,188,67"/>
+<area shape="rect" id="Node000004" href="$class_character_style_mapper.html#ae2395261820aac2173e0f67c87c89521" title=" " alt="" coords="249,107,502,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,79,292,102,291,107,167,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,26,549,29,548,34,515,32"/>
+</map>

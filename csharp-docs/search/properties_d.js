@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['p_5fsplit_0',['p_split',['../class_llama_library_1_1gpt__params.html#a6ac7aa4a8c65368026af59bc2c398bcc',1,'LlamaLibrary::gpt_params']]],
+  ['path_5fprompt_5fcache_1',['path_prompt_cache',['../class_llama_library_1_1gpt__params.html#a712cf51b49810a6ef8faea3d652cb5d9',1,'LlamaLibrary::gpt_params']]],
+  ['penalize_5fnl_2',['penalize_nl',['../class_llama_library_1_1llama__sampling__params.html#a4f1e56c779907fe06b8f45a66d1569e0',1,'LlamaLibrary::llama_sampling_params']]],
+  ['penalty_5ffreq_3',['penalty_freq',['../class_llama_library_1_1llama__sampling__params.html#a2823200a1a914c3b1b534715b7e73e6a',1,'LlamaLibrary::llama_sampling_params']]],
+  ['penalty_5flast_5fn_4',['penalty_last_n',['../class_llama_library_1_1llama__sampling__params.html#a188540b0ea110bc5fa661c0a229622a3',1,'LlamaLibrary::llama_sampling_params']]],
+  ['penalty_5fpresent_5',['penalty_present',['../class_llama_library_1_1llama__sampling__params.html#a85f2186f77638ac59d5267fca69251ba',1,'LlamaLibrary::llama_sampling_params']]],
+  ['penalty_5fprompt_5ftokens_6',['penalty_prompt_tokens',['../class_llama_library_1_1llama__sampling__params.html#afe2eab241f4f35f4828d9710536042bb',1,'LlamaLibrary::llama_sampling_params']]],
+  ['penalty_5frepeat_7',['penalty_repeat',['../class_llama_library_1_1llama__sampling__params.html#a85838e1b33d1eced3976d8adce93ad02',1,'LlamaLibrary::llama_sampling_params']]],
+  ['pending_8',['Pending',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#ab5f4d265a3b423468ef3ff507d9635ee',1,'LlamaLibrary::libllama_libPINVOKE::SWIGPendingException']]],
+  ['pimpl_9',['pImpl',['../class_llama_library_1_1_async_llama_infrence.html#a0fe6484872bf3372e9ab22d62e85f633',1,'LlamaLibrary.AsyncLlamaInfrence.pImpl'],['../class_llama_library_1_1_llama_infrence.html#a69ba70e45347efbed7776756e7399d6f',1,'LlamaLibrary.LlamaInfrence.pImpl'],['../class_llama_library_1_1_logging_context.html#a8bf7a55c53a9f0e12a33610e4732298e',1,'LlamaLibrary.LoggingContext.pImpl']]],
+  ['pooling_5ftype_10',['pooling_type',['../class_llama_library_1_1gpt__params.html#a893d111befed8deb54f17fac3ea61339',1,'LlamaLibrary::gpt_params']]],
+  ['port_11',['port',['../class_llama_library_1_1gpt__params.html#a03f64a467eabd8cb46f4207036bcb4c5',1,'LlamaLibrary::gpt_params']]],
+  ['ppl_5foutput_5ftype_12',['ppl_output_type',['../class_llama_library_1_1gpt__params.html#a25b8e3629e9a106244ccbb351a030564',1,'LlamaLibrary::gpt_params']]],
+  ['ppl_5fstride_13',['ppl_stride',['../class_llama_library_1_1gpt__params.html#a7d5b7925750c307c0c5c58d03eaccfe4',1,'LlamaLibrary::gpt_params']]],
+  ['process_5foutput_14',['process_output',['../class_llama_library_1_1gpt__params.html#a9a68eccc04dc4151dc24e8a9b6fc658d',1,'LlamaLibrary::gpt_params']]],
+  ['prompt_15',['Prompt',['../class_run_model_async.html#a52413ddfaf49c32705569d0185ce313c',1,'RunModelAsync']]],
+  ['prompt_16',['prompt',['../class_llama_library_1_1gpt__params.html#a5f80bc51ceca3c1a0c33ed14b92d093f',1,'LlamaLibrary::gpt_params']]],
+  ['prompt_5fcache_5fall_17',['prompt_cache_all',['../class_llama_library_1_1gpt__params.html#a08cc049464d921b4942a1fb55cd704e1',1,'LlamaLibrary::gpt_params']]],
+  ['prompt_5fcache_5fro_18',['prompt_cache_ro',['../class_llama_library_1_1gpt__params.html#a95d14bed0f1f538993b430f22e4fa5a6',1,'LlamaLibrary::gpt_params']]],
+  ['prompt_5ffile_19',['prompt_file',['../class_llama_library_1_1gpt__params.html#a373750aae0332aa2e949dcc3b619b7af',1,'LlamaLibrary::gpt_params']]],
+  ['public_5fpath_20',['public_path',['../class_llama_library_1_1gpt__params.html#a2710bc0ecbb00ca8c68aa999635f1b29',1,'LlamaLibrary::gpt_params']]]
+];

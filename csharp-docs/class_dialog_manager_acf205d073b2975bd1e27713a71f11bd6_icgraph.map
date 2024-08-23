@@ -1,0 +1,9 @@
+<map id="DialogManager.ParseDialog" name="DialogManager.ParseDialog">
+<area shape="rect" id="Node000001" title="Parses the dialog text into individual lines based on a specific format." alt="" coords="740,31,923,56"/>
+<area shape="rect" id="Node000002" href="$class_dialog_manager.html#ab0c342d16b660dc18f0b066a8dd3c832" title="Re&#45;parses the dialog and styles when the dialog text changes." alt="" coords="436,5,692,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,36,692,33,693,27,726,31"/>
+<area shape="rect" id="Node000004" href="$class_dialog_manager.html#a03c8a9834097fe6f3c636076a97563c8" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="494,55,634,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="726,55,635,64,634,58,726,50"/>
+<area shape="rect" id="Node000003" href="$class_dialog_text_and_character_styles_resetter.html#a5f0aa178e92573f0a80bfb50548010e2" title=" " alt="" coords="5,5,388,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,21,388,21,388,15,422,15"/>
+</map>
