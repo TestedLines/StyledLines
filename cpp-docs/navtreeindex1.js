@@ -1,0 +1,19 @@
+var NAVTREEINDEX1 =
+{
+"structllama__sampling__params.html#a5e8277ffbe5282337ddfb52465063a0e":[1,0,3,17],
+"structllama__sampling__params.html#a742868c1a80a5c6e7de3250f93d06e17":[1,0,3,4],
+"structllama__sampling__params.html#a7e495cd78178340ec2fe1c5e633a21f3":[1,0,3,6],
+"structllama__sampling__params.html#a806143d6bd5527ed085a8cd8a63aec9c":[1,0,3,8],
+"structllama__sampling__params.html#aacaba0e1d586864cef3b676f57552e5b":[1,0,3,19],
+"structllama__sampling__params.html#ab1f187f6cd946be0a174a352292ade60":[1,0,3,5],
+"structllama__sampling__params.html#ab8ba8d0db5d8cb946781997524fcd615":[1,0,3,21],
+"structllama__sampling__params.html#ad164b8b008ea17ea80b1dfb40d505c04":[1,0,3,23],
+"structllama__sampling__params.html#ad252a488f922ac066fbd4831e9e2419a":[1,0,3,25],
+"structllama__sampling__params.html#ad6978387ed28d44735049335a94e5bbd":[1,0,3,12],
+"structllama__sampling__params.html#add98f87e17a1164b2eeda7b2d92908d7":[1,0,3,3],
+"structllama__sampling__params.html#ae44b772d9b4868d48fcc714a57024f14":[1,0,3,9],
+"structllama__sampling__params.html#ae7a0b600a19d011597272209bdbb90f9":[1,0,3,10],
+"structllama__sampling__params.html#aea0060845cd2b8a23a823e17a2ca63d1":[1,0,3,13],
+"structllama__sampling__params.html#aefb4ad84358199a7df20eda22b1b17eb":[1,0,3,1],
+"structllama__sampling__params.html#af7ea9579e9de86f9a79eb08b134b0c5b":[1,0,3,2]
+};
