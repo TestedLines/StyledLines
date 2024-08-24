@@ -1,4 +1,4 @@
 var _dialog_text_and_character_styles_resetter_8cs =
 [
-    [ "DialogTextAndCharacterStylesResetter", "class_dialog_text_and_character_styles_resetter.html", "class_dialog_text_and_character_styles_resetter" ]
+    [ "Assets.StyledLines.Runtime.DialogUtils.DialogTextAndCharacterStylesResetter", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_and_character_styles_resetter.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_and_character_styles_resetter" ]
 ];

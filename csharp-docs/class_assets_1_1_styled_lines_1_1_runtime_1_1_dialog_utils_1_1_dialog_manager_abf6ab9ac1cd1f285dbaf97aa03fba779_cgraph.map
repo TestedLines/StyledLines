@@ -1,0 +1,5 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowText" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowText">
+<area shape="rect" id="Node000001" title="Displays the specified text on the character&#39;s TextMeshPro component." alt="" coords="5,5,409,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a47b62c096fbeba9ef026ca70ab0cea25" title="Coroutine that hides the text by clearing it after a specified delay." alt="" coords="457,5,916,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,15,444,15,444,21,409,21"/>
+</map>

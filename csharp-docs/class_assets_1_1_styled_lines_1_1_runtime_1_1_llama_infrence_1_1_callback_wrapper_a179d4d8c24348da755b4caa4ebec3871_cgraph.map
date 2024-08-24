@@ -1,0 +1,7 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterCompletionCallback" name="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterCompletionCallback">
+<area shape="rect" id="Node000001" title="Registers a completion callback function for the Llama model." alt="" coords="5,31,547,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#a34617c5048d2676faa1c9d4378224d5b" title="Sets the completion callback function for the native library." alt="" coords="597,5,1110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="547,29,583,27,583,33,547,34"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#aebb37888a106737b5468bd108acf7bfc" title="Static method to handle the completion callback from the native library." alt="" coords="595,55,1112,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="547,52,581,53,581,59,547,57"/>
+</map>

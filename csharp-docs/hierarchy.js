@@ -1,12 +1,12 @@
 var hierarchy =
 [
-    [ "AddFrameworksPostBuild", "class_add_frameworks_post_build.html", null ],
-    [ "LlamaLibrary.CallbackWrapper", "class_llama_library_1_1_callback_wrapper.html", null ],
-    [ "DialogManager.Character", "class_dialog_manager_1_1_character.html", null ],
-    [ "Editor", null, [
-      [ "BasicGptParamsSettingsEditor", "class_basic_gpt_params_settings_editor.html", null ]
+    [ "Assets.StyledLines.Editor.AddFrameworksPostBuild", "class_assets_1_1_styled_lines_1_1_editor_1_1_add_frameworks_post_build.html", null ],
+    [ "Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html", null ],
+    [ "Assets.StyledLines.Runtime.DialogUtils.DialogManager.Character", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager_1_1_character.html", null ],
+    [ "UnityEditor.Editor", null, [
+      [ "Assets.StyledLines.Editor.BasicGptParamsSettingsEditor", "class_assets_1_1_styled_lines_1_1_editor_1_1_basic_gpt_params_settings_editor.html", null ]
     ] ],
-    [ "EnableWebGLMultithreading", "class_enable_web_g_l_multithreading.html", null ],
+    [ "Assets.StyledLines.Editor.EnableWebGLMultithreading", "class_assets_1_1_styled_lines_1_1_editor_1_1_enable_web_g_l_multithreading.html", null ],
     [ "global.SystemCollections.Generic.IEnumerable", null, [
       [ "LlamaLibrary.LlamaControlVectorLoadInfos", "class_llama_library_1_1_llama_control_vector_load_infos.html", null ],
       [ "LlamaLibrary.StringsAndFloats", "class_llama_library_1_1_strings_and_floats.html", null ]
@@ -35,33 +35,33 @@ var hierarchy =
     ] ],
     [ "LlamaLibrary.libllama_lib", "class_llama_library_1_1libllama__lib.html", null ],
     [ "LlamaLibrary.libllama_libPINVOKE", "class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html", null ],
-    [ "ModelController", "class_model_controller.html", null ],
+    [ "Assets.StyledLines.Runtime.LlamaInfrenceUnity.ModelController", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html", null ],
     [ "MonoBehaviour", null, [
-      [ "CharacterAnimationTrigger", "class_character_animation_trigger.html", null ],
-      [ "CharacterStyleMapper", "class_character_style_mapper.html", null ],
-      [ "CircularMotion", "class_circular_motion.html", null ],
-      [ "DialogManager", "class_dialog_manager.html", null ],
-      [ "DialogTextAndCharacterStylesResetter", "class_dialog_text_and_character_styles_resetter.html", null ],
-      [ "DialogTextMapper", "class_dialog_text_mapper.html", null ],
-      [ "DisableWhileNotConfigured", "class_disable_while_not_configured.html", null ],
-      [ "LogToUI", "class_log_to_u_i.html", null ],
-      [ "MinimalExample", "class_minimal_example.html", null ],
-      [ "OrbitCamera", "class_orbit_camera.html", null ],
-      [ "PrintGeneratedText", "class_print_generated_text.html", null ],
-      [ "PrintModelState", "class_print_model_state.html", null ],
-      [ "PrintStartModelTokensToGenerate", "class_print_start_model_tokens_to_generate.html", null ],
-      [ "PrintStopwatchScore", "class_print_stopwatch_score.html", null ],
-      [ "RandomColor", "class_random_color.html", null ],
-      [ "RandomSpin", "class_random_spin.html", null ],
-      [ "RunModelAsync", "class_run_model_async.html", null ],
-      [ "SetStringValueFromFloat", "class_set_string_value_from_float.html", null ]
+      [ "Assets.StyledLines.Runtime.DialogUtils.CharacterStyleMapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_character_style_mapper.html", null ],
+      [ "Assets.StyledLines.Runtime.DialogUtils.DialogManager", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html", null ],
+      [ "Assets.StyledLines.Runtime.DialogUtils.DialogTextAndCharacterStylesResetter", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_and_character_styles_resetter.html", null ],
+      [ "Assets.StyledLines.Runtime.DialogUtils.DialogTextMapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_mapper.html", null ],
+      [ "Assets.StyledLines.Runtime.LlamaInfrenceUnity.MinimalExample", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html", null ],
+      [ "Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.DisableWhileNotConfigured", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_disable_while_not_configured.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.LogToUI", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_log_to_u_i.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.PrintGeneratedText", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_generated_text.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.PrintModelState", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_model_state.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.PrintStartModelTokensToGenerate", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_start_model_tokens_to_generate.html", null ],
+      [ "Assets.StyledLines.Runtime.UIHelpers.PrintStopwatchScore", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_stopwatch_score.html", null ],
+      [ "Assets.StyledLines.Samples.AutomatedConversationExample.Runtime.CharacterAnimationTrigger", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_character_animation_trigger.html", null ],
+      [ "Assets.StyledLines.Samples.AutomatedConversationExample.Runtime.OrbitCamera", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_orbit_camera.html", null ],
+      [ "Assets.StyledLines.Samples.BasicDebug.Runtime.CircularMotion", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_circular_motion.html", null ],
+      [ "Assets.StyledLines.Samples.BasicDebug.Runtime.RandomColor", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_color.html", null ],
+      [ "Assets.StyledLines.Samples.BasicDebug.Runtime.RandomSpin", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_spin.html", null ],
+      [ "Assets.StyledLines.Samples.BasicDebug.Runtime.SetStringValueFromFloat", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_set_string_value_from_float.html", null ]
     ] ],
     [ "ScriptableObject", null, [
-      [ "BasicGptParamsSettings", "class_basic_gpt_params_settings.html", null ],
-      [ "BinaryAsset", "class_binary_asset.html", null ]
+      [ "Assets.StyledLines.Runtime.ModelFilesUI.BasicGptParamsSettings", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_basic_gpt_params_settings.html", null ],
+      [ "Assets.StyledLines.Runtime.ModelFilesUI.BinaryAsset", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset.html", null ]
     ] ],
     [ "ScriptedImporter", null, [
-      [ "GGUFImporter", "class_g_g_u_f_importer.html", null ]
+      [ "Assets.StyledLines.Editor.GGUFImporter", "class_assets_1_1_styled_lines_1_1_editor_1_1_g_g_u_f_importer.html", null ]
     ] ],
     [ "LlamaLibrary.libllama_libPINVOKE.SWIGExceptionHelper", "class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_exception_helper.html", null ],
     [ "LlamaLibrary.libllama_libPINVOKE.SWIGPendingException", "class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html", null ],
@@ -96,5 +96,5 @@ var hierarchy =
       [ "LlamaLibrary.gpt_params", "class_llama_library_1_1gpt__params.html", null ],
       [ "LlamaLibrary.llama_sampling_params", "class_llama_library_1_1llama__sampling__params.html", null ]
     ] ],
-    [ "RunModelAsync.ThreadSafeString", "class_run_model_async_1_1_thread_safe_string.html", null ]
+    [ "Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.ThreadSafeString", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async_1_1_thread_safe_string.html", null ]
 ];

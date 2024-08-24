@@ -1,0 +1,7 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterTokenCallback" name="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterTokenCallback">
+<area shape="rect" id="Node000001" title="Registers a token callback function for the Llama model." alt="" coords="5,31,516,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#aa8293a39e5b2094dab76d8c98bf06368" title="Sets the token callback function for the native library." alt="" coords="571,5,1054,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,29,557,27,557,32,516,34"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#a2f26e3355627e83d630f031d1a80c864" title="Static method to handle the token callback from the native library." alt="" coords="564,55,1061,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="516,52,551,53,550,59,516,57"/>
+</map>

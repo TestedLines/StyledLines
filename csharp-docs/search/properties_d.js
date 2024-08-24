@@ -15,7 +15,7 @@ var searchData=
   ['ppl_5foutput_5ftype_12',['ppl_output_type',['../class_llama_library_1_1gpt__params.html#a25b8e3629e9a106244ccbb351a030564',1,'LlamaLibrary::gpt_params']]],
   ['ppl_5fstride_13',['ppl_stride',['../class_llama_library_1_1gpt__params.html#a7d5b7925750c307c0c5c58d03eaccfe4',1,'LlamaLibrary::gpt_params']]],
   ['process_5foutput_14',['process_output',['../class_llama_library_1_1gpt__params.html#a9a68eccc04dc4151dc24e8a9b6fc658d',1,'LlamaLibrary::gpt_params']]],
-  ['prompt_15',['Prompt',['../class_run_model_async.html#a52413ddfaf49c32705569d0185ce313c',1,'RunModelAsync']]],
+  ['prompt_15',['Prompt',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a2bfc153172fb8620fba4b3edaa69620c',1,'Assets::StyledLines::Runtime::LlamaInfrenceUnity::RunModelAsync']]],
   ['prompt_16',['prompt',['../class_llama_library_1_1gpt__params.html#a5f80bc51ceca3c1a0c33ed14b92d093f',1,'LlamaLibrary::gpt_params']]],
   ['prompt_5fcache_5fall_17',['prompt_cache_all',['../class_llama_library_1_1gpt__params.html#a08cc049464d921b4942a1fb55cd704e1',1,'LlamaLibrary::gpt_params']]],
   ['prompt_5fcache_5fro_18',['prompt_cache_ro',['../class_llama_library_1_1gpt__params.html#a95d14bed0f1f538993b430f22e4fa5a6',1,'LlamaLibrary::gpt_params']]],

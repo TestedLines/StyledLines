@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.StringsAndFloats.CopyTo Pages: 1 -->
 <svg width="416pt" height="45pt"
  viewBox="0.00 0.00 416.00 45.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 41)">
 <title>LlamaLibrary.StringsAndFloats.CopyTo</title>
 <!-- Node1 -->
@@ -30,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1_strings_and_floats.html#a756082a6da3e648c6a51c77cfabd4578" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1_strings_and_floats.html#a756082a6da3e648c6a51c77cfabd4578" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="408,-19 222,-19 222,0 408,0 408,-19"/>
 <text text-anchor="middle" x="315" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.StringsAndFloats.CopyTo</text>
 </a>
@@ -55,19 +45,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

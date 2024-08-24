@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.StringsAndFloats.CopyTo Pages: 1 -->
 <svg width="417pt" height="64pt"
  viewBox="0.00 0.00 417.00 64.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 60)">
 <title>LlamaLibrary.StringsAndFloats.CopyTo</title>
 <!-- Node1 -->
@@ -39,7 +29,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1_strings_and_floats.html#abd1f3cf78d59c16645d3ac7d7a330f36" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1_strings_and_floats.html#abd1f3cf78d59c16645d3ac7d7a330f36" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="186.5,-56 0.5,-56 0.5,-37 186.5,-37 186.5,-56"/>
 <text text-anchor="middle" x="93.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.StringsAndFloats.CopyTo</text>
 </a>
@@ -57,7 +47,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_llama_library_1_1_strings_and_floats.html#acb66bce4dba3a13171eee3d40bc969ed" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="$class_llama_library_1_1_strings_and_floats.html#acb66bce4dba3a13171eee3d40bc969ed" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="187,-19 0,-19 0,0 187,0 187,-19"/>
 <text text-anchor="middle" x="93.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.StringsAndFloats.ToArray</text>
 </a>
@@ -73,19 +63,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

@@ -1,0 +1,11 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowText" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowText">
+<area shape="rect" id="Node000001" title="Displays the specified text on the character&#39;s TextMeshPro component." alt="" coords="1365,31,1769,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a5f8f765bf2bba39f00acbfe9d5adab95" title="Coroutine that displays the next line of dialog, handles looping, and manages the dialog&#39;s progressio..." alt="" coords="887,31,1317,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1351,46,1318,46,1318,41,1351,41"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a38b321d8b3be72540eab19e2617352b5" title="Starts the dialog sequence, setting the initial index and activating the dialog." alt="" coords="428,5,839,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="873,34,839,32,839,26,873,28"/>
+<area shape="rect" id="Node000005" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#af3e4a4ceac0c1a23ec2421aea4e95ff9" title="Called every frame; updates dialog progression and rotates text objects to face the camera." alt="" coords="439,55,827,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="873,58,828,60,827,55,873,52"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#ab96fbfc2e535bb4e1a20307702926a9b" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,5,380,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,21,380,21,380,15,414,15"/>
+</map>

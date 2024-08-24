@@ -1,0 +1,26 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.ModelController.ModelController" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.ModelController.ModelController">
+<area shape="rect" id="Node000001" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,80,495,105"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#a46681d90514c97a90a91a9d0777e4fe4" title="Static method to get the appropriate temporary file path based on the platform. This method returns a..." alt="" coords="559,5,1037,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,77,542,39,628,29,629,35,543,45,316,83"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#ac94cfbc5b52ab58117b391e3ccb69bbe" title="Registers a token callback function for the Llama model." alt="" coords="543,55,1053,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,79,529,77,529,82,495,84"/>
+<area shape="rect" id="Node000006" href="$class_llama_library_1_1_file_wrapper.html#adf3f8c97164d49fd35efa91f740005a4" title=" " alt="" coords="697,104,899,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="495,101,683,109,683,114,495,106"/>
+<area shape="rect" id="Node000009" href="$class_llama_library_1_1_async_llama_infrence.html#a7cc223c9533da0f040cfd02d7f944cf6" title=" " alt="" coords="652,203,944,228"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="309,103,727,197,726,202,308,108"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#aa8293a39e5b2094dab76d8c98bf06368" title="Sets the token callback function for the native library." alt="" coords="1109,5,1591,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="940,52,1194,29,1194,35,941,57"/>
+<area shape="rect" id="Node000005" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#a2f26e3355627e83d630f031d1a80c864" title="Static method to handle the token callback from the native library." alt="" coords="1101,55,1599,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1053,65,1088,65,1088,70,1053,70"/>
+<area shape="rect" id="Node000007" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a2e2f829d671969cd417008a77a3b7445" title=" " alt="" coords="1153,104,1547,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="899,114,1139,114,1139,119,899,119"/>
+<area shape="rect" id="Node000008" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" title=" " alt="" coords="1142,153,1558,179"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="900,123,1194,149,1193,155,899,128"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="940,200,1194,177,1194,183,941,205"/>
+<area shape="rect" id="Node000010" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a3e629604030c518ff63457e5c5d03455" title=" " alt="" coords="1139,203,1561,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="944,213,1125,213,1125,218,944,218"/>
+<area shape="rect" id="Node000011" href="$class_llama_library_1_1gpt__params.html#a352b93d1ce986af8f726ebc0643f2825" title=" " alt="" coords="1242,252,1458,277"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="941,225,1229,251,1228,257,940,231"/>
+<area shape="rect" id="Node000012" href="$class_llama_library_1_1_logging_context.html#a8af2a946a9ffc74d4f17f897e781437d" title=" " alt="" coords="1231,301,1469,327"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="844,225,960,256,1102,286,1217,301,1217,307,1101,291,959,261,843,231"/>
+</map>

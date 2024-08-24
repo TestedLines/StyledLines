@@ -1,7 +1,0 @@
-<map id="LlamaLibrary.CallbackWrapper.RegisterTokenCallback" name="LlamaLibrary.CallbackWrapper.RegisterTokenCallback">
-<area shape="rect" id="Node000001" title="Registers a token callback function for the Llama model." alt="" coords="5,31,341,56"/>
-<area shape="rect" id="Node000002" href="$class_llama_library_1_1_callback_wrapper.html#aef415ea31ed50c9275cd935e988f6573" title="Sets the token callback function for the native library." alt="" coords="397,5,705,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,29,383,27,383,32,342,35"/>
-<area shape="rect" id="Node000003" href="$class_llama_library_1_1_callback_wrapper.html#a9e8c964c9fc6be21114be42214490eb2" title="Static method to handle the token callback from the native library." alt="" coords="389,55,712,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,51,376,54,376,59,342,57"/>
-</map>

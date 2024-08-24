@@ -1,7 +1,7 @@
 var searchData=
 [
   ['lastindexof_0',['LastIndexOf',['../class_llama_library_1_1_int32s.html#ac52d4d57509fbe62edc56786531ba210',1,'LlamaLibrary.Int32s.LastIndexOf()'],['../class_llama_library_1_1_strings.html#a664c48c25878ba2fbbd187b2a1d678c2',1,'LlamaLibrary.Strings.LastIndexOf()']]],
-  ['lateupdate_1',['LateUpdate',['../class_orbit_camera.html#a9477598c2473391270ff40282f6aaf5c',1,'OrbitCamera']]],
+  ['lateupdate_1',['LateUpdate',['../class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_orbit_camera.html#a8b36333bee08cfa6b6665bef354699e6',1,'Assets::StyledLines::Samples::AutomatedConversationExample::Runtime::OrbitCamera']]],
   ['libllama_5flibpinvoke_2',['libllama_libPINVOKE',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a1f817085393502a3e2aa1d2bafc75b4e',1,'LlamaLibrary::libllama_libPINVOKE']]],
   ['llama_5fsampling_5fparams_3',['llama_sampling_params',['../class_llama_library_1_1llama__sampling__params.html#abf4d471ce1e70eb4c118175bd57defc1',1,'LlamaLibrary.llama_sampling_params.llama_sampling_params(global::System.IntPtr cPtr, bool cMemoryOwn)'],['../class_llama_library_1_1llama__sampling__params.html#a1f49507cf07301650d3a3fe017a02733',1,'LlamaLibrary.llama_sampling_params.llama_sampling_params()']]],
   ['llama_5fsampling_5fparams_5fcfg_5fnegative_5fprompt_5fget_4',['llama_sampling_params_cfg_negative_prompt_get',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a96b8d7b860c428f90cc3e4b93bc843c6',1,'LlamaLibrary::libllama_libPINVOKE']]],
@@ -86,7 +86,7 @@ var searchData=
   ['llamainfrence_5fpimpl_5fget_83',['LlamaInfrence_pImpl_get',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a930067f1271626cce500b44eed2f1cd0',1,'LlamaLibrary::libllama_libPINVOKE']]],
   ['llamainfrence_5fpimpl_5fset_84',['LlamaInfrence_pImpl_set',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a66657bf809e61b562c788ac5e860ad30',1,'LlamaLibrary::libllama_libPINVOKE']]],
   ['llamainfrence_5fstop_85',['LlamaInfrence_Stop',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a42f7fd98c7b581adbe04d00c51f0d5f5',1,'LlamaLibrary::libllama_libPINVOKE']]],
-  ['logcallback_86',['LogCallback',['../class_llama_library_1_1_callback_wrapper.html#ae3e3a4d732dad5bf1c195d23e6eb67b5',1,'LlamaLibrary::CallbackWrapper']]],
+  ['logcallback_86',['LogCallback',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#ac870064b3b9aa4156e14e9558f45a299',1,'Assets::StyledLines::Runtime::LlamaInfrence::CallbackWrapper']]],
   ['loggingcontext_87',['LoggingContext',['../class_llama_library_1_1_logging_context.html#a18943cc696d695a01790c1b88c7a63f3',1,'LlamaLibrary.LoggingContext.LoggingContext(global::System.IntPtr cPtr, bool cMemoryOwn)'],['../class_llama_library_1_1_logging_context.html#a4efb98afedc2c20e8cca48591062624b',1,'LlamaLibrary.LoggingContext.LoggingContext()']]],
   ['loggingcontext_5fpimpl_5fget_88',['LoggingContext_pImpl_get',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#ae81942f0114b365de1bf60f6349ee735',1,'LlamaLibrary::libllama_libPINVOKE']]],
   ['loggingcontext_5fpimpl_5fset_89',['LoggingContext_pImpl_set',['../class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a1e2a86c83ae32454e44bfc29910cc4ec',1,'LlamaLibrary::libllama_libPINVOKE']]]

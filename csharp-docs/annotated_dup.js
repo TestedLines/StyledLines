@@ -1,8 +1,61 @@
 var annotated_dup =
 [
+    [ "Assets", "namespace_assets.html", [
+      [ "StyledLines", "namespace_assets_1_1_styled_lines.html", [
+        [ "Editor", "namespace_assets_1_1_styled_lines_1_1_editor.html", [
+          [ "AddFrameworksPostBuild", "class_assets_1_1_styled_lines_1_1_editor_1_1_add_frameworks_post_build.html", "class_assets_1_1_styled_lines_1_1_editor_1_1_add_frameworks_post_build" ],
+          [ "BasicGptParamsSettingsEditor", "class_assets_1_1_styled_lines_1_1_editor_1_1_basic_gpt_params_settings_editor.html", "class_assets_1_1_styled_lines_1_1_editor_1_1_basic_gpt_params_settings_editor" ],
+          [ "EnableWebGLMultithreading", "class_assets_1_1_styled_lines_1_1_editor_1_1_enable_web_g_l_multithreading.html", "class_assets_1_1_styled_lines_1_1_editor_1_1_enable_web_g_l_multithreading" ],
+          [ "GGUFImporter", "class_assets_1_1_styled_lines_1_1_editor_1_1_g_g_u_f_importer.html", "class_assets_1_1_styled_lines_1_1_editor_1_1_g_g_u_f_importer" ]
+        ] ],
+        [ "Runtime", "namespace_assets_1_1_styled_lines_1_1_runtime.html", [
+          [ "DialogUtils", "namespace_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils.html", [
+            [ "CharacterStyleMapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_character_style_mapper.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_character_style_mapper" ],
+            [ "DialogManager", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager" ],
+            [ "DialogTextAndCharacterStylesResetter", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_and_character_styles_resetter.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_and_character_styles_resetter" ],
+            [ "DialogTextMapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_mapper.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_text_mapper" ]
+          ] ],
+          [ "LlamaInfrence", "namespace_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence.html", [
+            [ "CallbackWrapper", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper" ]
+          ] ],
+          [ "LlamaInfrenceUnity", "namespace_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity.html", [
+            [ "MinimalExample", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example" ],
+            [ "ModelController", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller" ],
+            [ "RunModelAsync", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async" ]
+          ] ],
+          [ "ModelFilesUI", "namespace_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i.html", [
+            [ "BasicGptParamsSettings", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_basic_gpt_params_settings.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_basic_gpt_params_settings" ],
+            [ "BinaryAsset", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset" ]
+          ] ],
+          [ "UIHelpers", "namespace_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers.html", [
+            [ "DisableWhileNotConfigured", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_disable_while_not_configured.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_disable_while_not_configured" ],
+            [ "LogToUI", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_log_to_u_i.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_log_to_u_i" ],
+            [ "PrintGeneratedText", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_generated_text.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_generated_text" ],
+            [ "PrintModelState", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_model_state.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_model_state" ],
+            [ "PrintStartModelTokensToGenerate", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_start_model_tokens_to_generate.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_start_model_tokens_to_generate" ],
+            [ "PrintStopwatchScore", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_stopwatch_score.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_stopwatch_score" ]
+          ] ]
+        ] ],
+        [ "Samples", "namespace_assets_1_1_styled_lines_1_1_samples.html", [
+          [ "AutomatedConversationExample", "namespace_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example.html", [
+            [ "Runtime", "namespace_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime.html", [
+              [ "CharacterAnimationTrigger", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_character_animation_trigger.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_character_animation_trigger" ],
+              [ "OrbitCamera", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_orbit_camera.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_automated_conversation_example_1_1_runtime_1_1_orbit_camera" ]
+            ] ]
+          ] ],
+          [ "BasicDebug", "namespace_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug.html", [
+            [ "Runtime", "namespace_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime.html", [
+              [ "CircularMotion", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_circular_motion.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_circular_motion" ],
+              [ "RandomColor", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_color.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_color" ],
+              [ "RandomSpin", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_spin.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_random_spin" ],
+              [ "SetStringValueFromFloat", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_set_string_value_from_float.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_set_string_value_from_float" ]
+            ] ]
+          ] ]
+        ] ]
+      ] ]
+    ] ],
     [ "LlamaLibrary", "namespace_llama_library.html", [
       [ "AsyncLlamaInfrence", "class_llama_library_1_1_async_llama_infrence.html", "class_llama_library_1_1_async_llama_infrence" ],
-      [ "CallbackWrapper", "class_llama_library_1_1_callback_wrapper.html", "class_llama_library_1_1_callback_wrapper" ],
       [ "FileWrapper", "class_llama_library_1_1_file_wrapper.html", "class_llama_library_1_1_file_wrapper" ],
       [ "gpt_params", "class_llama_library_1_1gpt__params.html", "class_llama_library_1_1gpt__params" ],
       [ "Int32s", "class_llama_library_1_1_int32s.html", "class_llama_library_1_1_int32s" ],
@@ -29,30 +82,5 @@ var annotated_dup =
       [ "SWIGTYPE_p_std__vectorT_llama_token_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__token__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__llama__token__t" ],
       [ "SWIGTYPE_p_std__vectorT_std__tupleT_std__string_float_t_t", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__std____vector_t__std____tuple_t__std____string__float__t__t" ],
       [ "SWIGTYPE_p_void", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__void.html", "class_llama_library_1_1_s_w_i_g_t_y_p_e__p__void" ]
-    ] ],
-    [ "AddFrameworksPostBuild", "class_add_frameworks_post_build.html", "class_add_frameworks_post_build" ],
-    [ "BasicGptParamsSettings", "class_basic_gpt_params_settings.html", "class_basic_gpt_params_settings" ],
-    [ "BasicGptParamsSettingsEditor", "class_basic_gpt_params_settings_editor.html", "class_basic_gpt_params_settings_editor" ],
-    [ "BinaryAsset", "class_binary_asset.html", "class_binary_asset" ],
-    [ "CharacterAnimationTrigger", "class_character_animation_trigger.html", "class_character_animation_trigger" ],
-    [ "CharacterStyleMapper", "class_character_style_mapper.html", "class_character_style_mapper" ],
-    [ "CircularMotion", "class_circular_motion.html", "class_circular_motion" ],
-    [ "DialogManager", "class_dialog_manager.html", "class_dialog_manager" ],
-    [ "DialogTextAndCharacterStylesResetter", "class_dialog_text_and_character_styles_resetter.html", "class_dialog_text_and_character_styles_resetter" ],
-    [ "DialogTextMapper", "class_dialog_text_mapper.html", "class_dialog_text_mapper" ],
-    [ "DisableWhileNotConfigured", "class_disable_while_not_configured.html", "class_disable_while_not_configured" ],
-    [ "EnableWebGLMultithreading", "class_enable_web_g_l_multithreading.html", "class_enable_web_g_l_multithreading" ],
-    [ "GGUFImporter", "class_g_g_u_f_importer.html", "class_g_g_u_f_importer" ],
-    [ "LogToUI", "class_log_to_u_i.html", "class_log_to_u_i" ],
-    [ "MinimalExample", "class_minimal_example.html", "class_minimal_example" ],
-    [ "ModelController", "class_model_controller.html", "class_model_controller" ],
-    [ "OrbitCamera", "class_orbit_camera.html", "class_orbit_camera" ],
-    [ "PrintGeneratedText", "class_print_generated_text.html", "class_print_generated_text" ],
-    [ "PrintModelState", "class_print_model_state.html", "class_print_model_state" ],
-    [ "PrintStartModelTokensToGenerate", "class_print_start_model_tokens_to_generate.html", "class_print_start_model_tokens_to_generate" ],
-    [ "PrintStopwatchScore", "class_print_stopwatch_score.html", "class_print_stopwatch_score" ],
-    [ "RandomColor", "class_random_color.html", "class_random_color" ],
-    [ "RandomSpin", "class_random_spin.html", "class_random_spin" ],
-    [ "RunModelAsync", "class_run_model_async.html", "class_run_model_async" ],
-    [ "SetStringValueFromFloat", "class_set_string_value_from_float.html", "class_set_string_value_from_float" ]
+    ] ]
 ];

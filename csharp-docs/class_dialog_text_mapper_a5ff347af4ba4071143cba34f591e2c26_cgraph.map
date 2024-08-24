@@ -1,7 +1,0 @@
-<map id="DialogTextMapper.Start" name="DialogTextMapper.Start">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,56"/>
-<area shape="rect" id="Node000002" href="$class_dialog_text_mapper.html#af1fbed96cd3446c0d5dcd118b82a3782" title=" " alt="" coords="231,5,490,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,33,217,28,218,34,165,39"/>
-<area shape="rect" id="Node000003" href="$class_dialog_text_mapper.html#ad7e9d706a78140689648e10e5a78de5e" title=" " alt="" coords="212,55,509,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,48,202,51,201,56,164,53"/>
-</map>

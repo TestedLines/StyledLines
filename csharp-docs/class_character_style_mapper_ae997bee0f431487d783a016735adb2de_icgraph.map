@@ -1,8 +1,0 @@
-<map id="CharacterStyleMapper.SetStyleInputField" name="CharacterStyleMapper.SetStyleInputField">
-<area shape="rect" id="Node000001" title=" " alt="" coords="563,31,824,56"/>
-<area shape="rect" id="Node000002" href="$class_character_style_mapper.html#afb15d22f0b368b59f006d762b891c7dc" title=" " alt="" coords="236,5,515,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,34,515,32,515,26,549,29"/>
-<area shape="rect" id="Node000003" href="$class_character_style_mapper.html#a1b9068ca15aebcf857dc7997030ac14e" title=" " alt="" coords="5,31,188,56"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="549,46,188,46,188,41,549,41"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,35,188,38,188,32,222,29"/>
-</map>

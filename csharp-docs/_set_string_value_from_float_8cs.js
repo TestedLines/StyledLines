@@ -1,4 +1,4 @@
 var _set_string_value_from_float_8cs =
 [
-    [ "SetStringValueFromFloat", "class_set_string_value_from_float.html", "class_set_string_value_from_float" ]
+    [ "Assets.StyledLines.Samples.BasicDebug.Runtime.SetStringValueFromFloat", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_set_string_value_from_float.html", "class_assets_1_1_styled_lines_1_1_samples_1_1_basic_debug_1_1_runtime_1_1_set_string_value_from_float" ]
 ];

@@ -1,5 +1,0 @@
-<map id="DialogManager.CreateTextMeshesIfMissing" name="DialogManager.CreateTextMeshesIfMissing">
-<area shape="rect" id="Node000001" title="Ensures that each character has a TextMeshPro component for displaying dialog, creating one if necess..." alt="" coords="193,5,465,31"/>
-<area shape="rect" id="Node000002" href="$class_dialog_manager.html#a03c8a9834097fe6f3c636076a97563c8" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,5,145,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,21,146,21,146,15,179,15"/>
-</map>

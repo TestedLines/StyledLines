@@ -59,8 +59,8 @@ To get the best results, consider using the following styles:
 - **MacOS/iOS Builds**: Requires Mac OS-based computers with CMake and Xcode installed.
 - **AI Output**: The LLM model may generate tokens that are not parsable by certain fonts.
 - **Model Performance**: Optimized for one-liners and single sentences.
-- **CPP-docs**: [avaliable here](https://testedlines.github.io/StyledLines/cpp-docs/index.html), helpfull for rebuilding wrappers
-- **CSharp (this docs)**: [avaliable here](https://testedlines.github.io/StyledLines/csharp-docs/index.html)
+- **CPP-docs**: [available here](https://testedlines.github.io/StyledLines/cpp-docs/index.html), helpfull for rebuilding wrappers
+- **CSharp (this docs)**: [available here](https://testedlines.github.io/StyledLines/csharp-docs/index.html)
 ## License
 
 The model and code are released under Unity3D Asset Store’s standard End User License Agreement. See the full EULA [here](https://assetstore.unity.com/browse/eula-faq).

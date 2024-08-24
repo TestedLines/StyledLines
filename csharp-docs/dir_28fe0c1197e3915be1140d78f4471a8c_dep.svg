@@ -6,21 +6,11 @@
 <!-- Title: StyledLines/Samples/BasicDebug/Runtime Pages: 1 -->
 <svg width="94pt" height="78pt"
  viewBox="0.00 0.00 94.00 78.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 74)">
 <title>StyledLines/Samples/BasicDebug/Runtime</title>
 <g id="clust1" class="cluster">
 <title>clusterdir_9618bceaaa476f3a62454b58bc6de545</title>
-<g id="a_clust1"><a xlink:href="dir_9618bceaaa476f3a62454b58bc6de545.html" target="_top" xlink:title="BasicDebug">
+<g id="a_clust1"><a xlink:href="dir_9618bceaaa476f3a62454b58bc6de545.html" xlink:title="BasicDebug">
 <polygon fill="#ebefec" stroke="#7f7f7f" stroke-dasharray="5,2" points="8,-8 8,-62 78,-62 78,-8 8,-8"/>
 <text text-anchor="middle" x="43" y="-50" font-family="Helvetica,sans-Serif" font-size="10.00">BasicDebug</text>
 </a>
@@ -29,26 +19,11 @@
 <!-- dir_28fe0c1197e3915be1140d78f4471a8c -->
 <g id="node1" class="node">
 <title>dir_28fe0c1197e3915be1140d78f4471a8c</title>
-<g id="a_node1"><a xlink:href="dir_28fe0c1197e3915be1140d78f4471a8c.html" target="_top" xlink:title="Runtime">
+<g id="a_node1"><a xlink:href="dir_28fe0c1197e3915be1140d78f4471a8c.html" xlink:title="Runtime">
 <polygon fill="#ebefec" stroke="#404040" stroke-width="2" points="69.5,-35 16.5,-35 16.5,-16 69.5,-16 69.5,-35"/>
 <text text-anchor="middle" x="43" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">Runtime</text>
 </a>
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

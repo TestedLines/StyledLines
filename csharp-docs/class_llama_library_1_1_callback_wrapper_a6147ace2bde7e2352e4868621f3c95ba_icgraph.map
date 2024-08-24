@@ -1,7 +1,0 @@
-<map id="LlamaLibrary.CallbackWrapper.SetCompletionCallback" name="LlamaLibrary.CallbackWrapper.SetCompletionCallback">
-<area shape="rect" id="Node000001" title="Sets the completion callback function for the native library." alt="" coords="617,5,956,31"/>
-<area shape="rect" id="Node000002" href="$class_llama_library_1_1_callback_wrapper.html#a353d1a08774ce45047d6651294fbc77a" title="Registers a completion callback function for the Llama model." alt="" coords="203,5,569,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,21,570,21,570,15,603,15"/>
-<area shape="rect" id="Node000003" href="$class_run_model_async.html#a57b42f3e7a40dd687a32b1e62f2ce96a" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="5,5,155,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,21,155,21,155,15,189,15"/>
-</map>

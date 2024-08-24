@@ -1,7 +1,0 @@
-<map id="LlamaLibrary.CallbackWrapper.RegisterCompletionCallback" name="LlamaLibrary.CallbackWrapper.RegisterCompletionCallback">
-<area shape="rect" id="Node000001" title="Registers a completion callback function for the Llama model." alt="" coords="5,31,372,56"/>
-<area shape="rect" id="Node000002" href="$class_llama_library_1_1_callback_wrapper.html#a6147ace2bde7e2352e4868621f3c95ba" title="Sets the completion callback function for the native library." alt="" coords="422,5,761,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,29,408,27,409,32,373,34"/>
-<area shape="rect" id="Node000003" href="$class_llama_library_1_1_callback_wrapper.html#a24f4396cd7ec5b8215e99195b4a88754" title="Static method to handle the completion callback from the native library." alt="" coords="420,55,763,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,52,406,54,406,59,372,57"/>
-</map>

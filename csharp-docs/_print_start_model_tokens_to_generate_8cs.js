@@ -1,4 +1,4 @@
 var _print_start_model_tokens_to_generate_8cs =
 [
-    [ "PrintStartModelTokensToGenerate", "class_print_start_model_tokens_to_generate.html", "class_print_start_model_tokens_to_generate" ]
+    [ "Assets.StyledLines.Runtime.UIHelpers.PrintStartModelTokensToGenerate", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_start_model_tokens_to_generate.html", "class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_print_start_model_tokens_to_generate" ]
 ];

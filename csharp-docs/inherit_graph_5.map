@@ -1,36 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,300,56"/>
-<area shape="rect" id="Node000001" href="$class_llama_library_1_1_llama_control_vector_load_infos.html" title=" " alt="" coords="348,55,617,80"/>
-<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="314,52,348,55,348,60,314,58"/>
-<area shape="rect" id="Node000012" href="$class_llama_library_1_1_strings_and_floats.html" title=" " alt="" coords="383,5,583,31"/>
-<area shape="poly" id="edge4_Node000000_Node000012" title=" " alt="" coords="314,28,382,23,383,28,314,34"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="30,80,275,105"/>
-<area shape="poly" id="edge6_Node000002_Node000001" title=" " alt="" coords="289,80,347,75,348,80,289,85"/>
-<area shape="poly" id="edge8_Node000002_Node000012" title=" " alt="" coords="265,74,299,65,323,52,347,40,389,28,390,33,349,44,325,57,301,70,266,80"/>
-<area shape="rect" id="Node000003" href="$class_llama_library_1_1_int32s.html" title=" " alt="" coords="415,153,550,179"/>
-<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="270,106,301,114,325,126,349,138,416,155,415,160,347,143,323,131,299,119,269,111"/>
-<area shape="rect" id="Node000005" href="$class_llama_library_1_1_strings.html" title=" " alt="" coords="412,104,553,129"/>
-<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="289,100,412,109,412,114,289,105"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="29,129,276,155"/>
-<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="290,149,415,158,415,164,289,155"/>
-<area shape="poly" id="edge10_Node000004_Node000005" title=" " alt="" coords="290,129,412,119,412,125,290,134"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="67,252,239,277"/>
-<area shape="poly" id="edge14_Node000006_Node000001" title=" " alt="" coords="189,243,243,209,298,164,312,144,320,125,328,107,346,89,369,78,371,82,350,93,333,110,324,127,317,147,302,168,247,214,192,248"/>
-<area shape="poly" id="edge19_Node000006_Node000012" title=" " alt="" coords="193,244,247,211,274,189,298,164,308,148,314,132,318,100,324,70,332,55,346,40,363,29,382,21,384,26,366,34,350,44,337,58,329,72,323,101,319,133,313,150,302,168,278,193,250,215,196,248"/>
-<area shape="poly" id="edge13_Node000006_Node000003" title=" " alt="" coords="194,244,265,215,347,187,415,173,416,178,349,193,266,220,196,249"/>
-<area shape="poly" id="edge18_Node000006_Node000005" title=" " alt="" coords="181,242,268,183,313,156,347,138,411,121,412,127,349,143,315,160,271,188,184,246"/>
-<area shape="rect" id="Node000007" href="$class_llama_library_1_1_async_llama_infrence.html" title=" " alt="" coords="374,449,591,475"/>
-<area shape="poly" id="edge11_Node000006_Node000007" title=" " alt="" coords="175,287,205,321,246,362,295,402,349,436,379,447,377,452,347,440,292,407,242,366,201,324,171,290"/>
-<area shape="rect" id="Node000008" href="$class_llama_library_1_1_file_wrapper.html" title=" " alt="" coords="397,499,568,524"/>
-<area shape="poly" id="edge12_Node000006_Node000008" title=" " alt="" coords="170,288,197,331,238,386,289,440,318,465,349,485,373,495,398,502,397,508,371,501,347,490,315,469,285,444,234,389,193,334,165,290"/>
-<area shape="rect" id="Node000009" href="$class_llama_library_1_1_llama_infrence.html" title=" " alt="" coords="393,203,573,228"/>
-<area shape="poly" id="edge15_Node000006_Node000009" title=" " alt="" coords="251,247,396,225,397,231,252,253"/>
-<area shape="rect" id="Node000010" href="$class_llama_library_1_1_logging_context.html" title=" " alt="" coords="387,252,578,277"/>
-<area shape="poly" id="edge16_Node000006_Node000010" title=" " alt="" coords="252,262,387,262,387,267,252,267"/>
-<area shape="rect" id="Node000011" href="$class_llama_library_1_1_string_and_float.html" title=" " alt="" coords="389,301,576,327"/>
-<area shape="poly" id="edge17_Node000006_Node000011" title=" " alt="" coords="252,277,397,299,396,304,251,282"/>
-<area shape="rect" id="Node000013" href="$class_llama_library_1_1gpt__params.html" title=" " alt="" coords="399,351,567,376"/>
-<area shape="poly" id="edge20_Node000006_Node000013" title=" " alt="" coords="196,280,266,309,349,337,399,348,398,354,347,342,265,314,194,285"/>
-<area shape="rect" id="Node000014" href="$class_llama_library_1_1llama__sampling__params.html" title=" " alt="" coords="363,400,603,425"/>
-<area shape="poly" id="edge21_Node000006_Node000014" title=" " alt="" coords="182,284,255,336,301,363,349,386,386,397,384,403,347,391,298,368,252,341,179,288"/>
+<area shape="rect" id="Node000000" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async_1_1_thread_safe_string.html" title="A thread&#45;safe string wrapper to ensure safe access and modification from multiple threads." alt="" coords="5,5,508,31"/>
 </map>

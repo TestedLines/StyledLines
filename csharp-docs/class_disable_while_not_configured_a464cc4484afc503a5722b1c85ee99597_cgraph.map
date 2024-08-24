@@ -1,8 +1,0 @@
-<map id="DisableWhileNotConfigured.Start" name="DisableWhileNotConfigured.Start">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,56"/>
-<area shape="rect" id="Node000002" href="$class_disable_while_not_configured.html#a3d90809cbb6767eee937856f545ddb9d" title=" " alt="" coords="264,5,547,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,32,250,29,250,34,216,37"/>
-<area shape="rect" id="Node000003" href="$class_disable_while_not_configured.html#ac86bad82530a44785926135dbfe2f608" title=" " alt="" coords="595,31,889,56"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="216,41,581,41,581,46,216,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,26,581,29,581,34,547,31"/>
-</map>

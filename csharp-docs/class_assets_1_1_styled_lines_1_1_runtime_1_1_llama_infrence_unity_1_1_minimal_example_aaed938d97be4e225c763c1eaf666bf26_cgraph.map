@@ -1,0 +1,7 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.MinimalExample.Start" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.MinimalExample.Start">
+<area shape="rect" id="Node000001" title="The Start method is called when the script instance is being loaded. It initializes the ModelControll..." alt="" coords="5,5,439,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html#aa2c607981a96d13a2edbc95d47a87282" title="Coroutine to handle the asynchronous generation of text from the language model. Coroutines allow the..." alt="" coords="487,5,969,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,15,473,15,473,21,439,21"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c" title="Static method to extract the first part of a string up to a specified stop text. If the stop text is ..." alt="" coords="1017,5,1508,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="970,15,1004,15,1004,21,970,21"/>
+</map>

@@ -1,7 +1,7 @@
 <map id="LlamaLibrary.LoggingContext.Dispose" name="LlamaLibrary.LoggingContext.Dispose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="345,31,587,56"/>
-<area shape="rect" id="Node000002" href="$class_run_model_async.html#a7a29035d3f1d08dfea5cd1f334d27433" title="Method called when the MonoBehaviour is destroyed. Disposes of model resources and cleans up the envi..." alt="" coords="60,5,243,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,35,243,28,243,23,332,30"/>
-<area shape="rect" id="Node000003" href="$class_llama_library_1_1_logging_context.html#a68039ac2c5ff27eaaf37769e8b703e28" title=" " alt="" coords="5,55,297,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,56,298,59,297,54,331,51"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="520,31,761,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#aa84dadf5655e750a552e00475ae5b60b" title="Method called when the MonoBehaviour is destroyed. Disposes of model resources and cleans up the envi..." alt="" coords="5,5,472,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,38,440,33,440,28,506,32"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1_logging_context.html#a68039ac2c5ff27eaaf37769e8b703e28" title=" " alt="" coords="93,55,385,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="506,54,385,61,385,56,506,49"/>
 </map>

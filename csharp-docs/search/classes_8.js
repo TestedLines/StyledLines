@@ -7,5 +7,5 @@ var searchData=
   ['llamacontrolvectorloadinfosenumerator_4',['LlamaControlVectorLoadInfosEnumerator',['../class_llama_library_1_1_llama_control_vector_load_infos_1_1_llama_control_vector_load_infos_enumerator.html',1,'LlamaLibrary::LlamaControlVectorLoadInfos']]],
   ['llamainfrence_5',['LlamaInfrence',['../class_llama_library_1_1_llama_infrence.html',1,'LlamaLibrary']]],
   ['loggingcontext_6',['LoggingContext',['../class_llama_library_1_1_logging_context.html',1,'LlamaLibrary']]],
-  ['logtoui_7',['LogToUI',['../class_log_to_u_i.html',1,'']]]
+  ['logtoui_7',['LogToUI',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_u_i_helpers_1_1_log_to_u_i.html',1,'Assets::StyledLines::Runtime::UIHelpers']]]
 ];

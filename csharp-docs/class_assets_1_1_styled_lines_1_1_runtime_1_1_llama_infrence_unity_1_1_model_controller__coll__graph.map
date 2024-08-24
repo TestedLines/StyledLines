@@ -1,0 +1,17 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.ModelController" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.ModelController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,3241,1035,3347"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html" title=" " alt="" coords="5,1513,556,1799"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,1799,262,1926,260,2080,267,2256,287,2444,303,2541,324,2638,349,2735,380,2830,418,2923,462,3012,512,3097,571,3177,601,3207,637,3231,634,3236,598,3211,567,3180,508,3100,457,3015,413,2925,375,2832,344,2737,318,2640,298,2542,282,2445,262,2256,255,2080,257,1926,264,1799"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="673,5,841,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="661,70,612,97,590,114,571,135,515,216,466,303,424,393,388,486,357,582,332,679,312,776,295,873,275,1060,266,1234,266,1388,271,1513,266,1513,261,1388,261,1234,269,1060,290,872,306,775,327,678,352,581,383,485,419,391,461,300,510,214,567,132,586,111,609,93,658,66"/>
+<area shape="rect" id="Node000005" href="$class_llama_library_1_1gpt__params.html" title=" " alt="" coords="1127,133,1629,3179"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="830,74,873,92,917,107,961,111,1020,112,1077,116,1100,122,1117,131,1129,143,1125,147,1114,135,1098,126,1076,121,1020,117,961,116,916,112,871,97,828,79"/>
+<area shape="rect" id="Node000006" href="$class_llama_library_1_1_logging_context.html" title=" " alt="" coords="581,1573,1103,1739"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="762,84,840,1573,835,1573,756,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="875,5,977,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="875,65,853,73,708,100,619,118,587,127,570,135,507,209,452,288,405,373,365,462,332,554,305,649,284,745,268,841,257,936,250,1029,246,1207,251,1365,262,1497,257,1497,246,1365,240,1207,245,1029,252,935,263,840,279,744,300,648,327,553,360,460,400,371,447,285,503,205,567,131,585,122,618,113,707,94,852,68,873,60"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="978,48,1014,60,1052,78,1088,101,1117,132,1120,135,1115,138,1113,135,1084,105,1049,82,1012,65,977,54"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="927,71,850,1557,844,1557,922,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1129,3165,1117,3180,1087,3211,1051,3236,1048,3231,1083,3207,1113,3177,1125,3162"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="845,1739,845,3225,839,3225,839,1739"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowNextLine" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ShowNextLine">
+<area shape="rect" id="Node000001" title="Coroutine that displays the next line of dialog, handles looping, and manages the dialog&#39;s progressio..." alt="" coords="5,31,436,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c" title="Static method to extract the first part of a string up to a specified stop text. If the stop text is ..." alt="" coords="484,5,975,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,30,470,28,471,34,436,35"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#abf6ab9ac1cd1f285dbaf97aa03fba779" title="Displays the specified text on the character&#39;s TextMeshPro component." alt="" coords="527,55,931,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="436,51,514,55,514,60,436,56"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a47b62c096fbeba9ef026ca70ab0cea25" title="Coroutine that hides the text by clearing it after a specified delay." alt="" coords="1023,55,1481,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="931,65,1009,65,1009,70,931,70"/>
+</map>

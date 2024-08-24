@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.Strings.Reverse Pages: 1 -->
 <svg width="499pt" height="64pt"
  viewBox="0.00 0.00 499.00 64.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 60)">
 <title>LlamaLibrary.Strings.Reverse</title>
 <!-- Node1 -->
@@ -30,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="491,-56 179,-56 179,-37 491,-37 491,-56"/>
 <text text-anchor="middle" x="335" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.libllama_libPINVOKE.SWIGPendingException.Retrieve</text>
 </a>
@@ -48,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#ac6fa1e4ebe3f492735b7cdf2502f522f" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#ac6fa1e4ebe3f492735b7cdf2502f522f" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="478.5,-19 191.5,-19 191.5,0 478.5,0 478.5,-19"/>
 <text text-anchor="middle" x="335" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.libllama_libPINVOKE.Strings_Reverse__SWIG_1</text>
 </a>
@@ -64,19 +54,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

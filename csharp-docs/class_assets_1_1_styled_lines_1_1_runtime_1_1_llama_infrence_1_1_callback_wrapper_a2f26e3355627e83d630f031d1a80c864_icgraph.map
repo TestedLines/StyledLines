@@ -1,0 +1,9 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.StaticTokenCallback" name="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.StaticTokenCallback">
+<area shape="rect" id="Node000001" title="Static method to handle the token callback from the native library." alt="" coords="1101,31,1599,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#ac94cfbc5b52ab58117b391e3ccb69bbe" title="Registers a token callback function for the Llama model." alt="" coords="543,31,1053,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1088,46,1054,46,1054,41,1088,41"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#a3dce3d5d9c0458ed8193cc4ef9f0d45c" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,5,495,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,34,495,32,495,27,529,28"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a93352c3bc627fe14cf66719b7de80e87" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="34,55,466,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="529,58,467,61,466,55,529,52"/>
+</map>

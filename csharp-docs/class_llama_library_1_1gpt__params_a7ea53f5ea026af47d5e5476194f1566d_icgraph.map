@@ -1,7 +1,7 @@
 <map id="LlamaLibrary.gpt_params.Dispose" name="LlamaLibrary.gpt_params.Dispose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="301,31,520,56"/>
-<area shape="rect" id="Node000002" href="$class_run_model_async.html#a7a29035d3f1d08dfea5cd1f334d27433" title="Method called when the MonoBehaviour is destroyed. Disposes of model resources and cleans up the envi..." alt="" coords="38,5,221,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,35,220,29,221,24,288,30"/>
-<area shape="rect" id="Node000003" href="$class_llama_library_1_1gpt__params.html#a86882c54e6b00ba1f6472f868b7ab3a9" title=" " alt="" coords="5,55,253,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,56,254,59,253,54,287,51"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="520,31,739,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#aa84dadf5655e750a552e00475ae5b60b" title="Method called when the MonoBehaviour is destroyed. Disposes of model resources and cleans up the envi..." alt="" coords="5,5,472,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,38,434,33,434,28,507,33"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1gpt__params.html#a86882c54e6b00ba1f6472f868b7ab3a9" title=" " alt="" coords="115,55,363,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,54,363,62,363,57,506,48"/>
 </map>

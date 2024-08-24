@@ -159,114 +159,106 @@ License</h1>
 Coding</h1>
 <h2><a class="anchor" id="autotoc_md9"></a>
 Motivating usage example:</h2>
-<div class="fragment"><div class="line"><span class="keyword">using </span>UnityEngine;</div>
-<div class="line"><span class="keyword">using </span>System.Collections;</div>
+<div class="fragment"><div class="line"><span class="keyword">using </span>System.Collections;</div>
+<div class="line"><span class="keyword">using </span><a class="code hl_namespace" href="namespace_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i.html">Assets.StyledLines.Runtime.ModelFilesUI</a>;</div>
+<div class="line"><span class="keyword">using </span>UnityEngine;</div>
 <div class="line"> </div>
-<div class="line"><span class="keyword">public</span> <span class="keyword">class </span><a class="code hl_class" href="class_minimal_example.html">MinimalExample</a> : MonoBehaviour</div>
+<div class="line"> </div>
+<div class="line"><span class="keyword">public</span> <span class="keyword">class </span>MinimalExample : MonoBehaviour</div>
 <div class="line">{</div>
-<div class="line">    <span class="keyword">public</span> <a class="code hl_class" href="class_binary_asset.html">BinaryAsset</a> <a class="code hl_variable" href="class_minimal_example.html#a43f5e032b5f2929000d48902f7de9341">binaryFileAsset</a>;</div>
+<div class="line">    <span class="keyword">public</span> <a class="code hl_class" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset.html">BinaryAsset</a> binaryFileAsset;</div>
 <div class="line"> </div>
-<div class="line">    <span class="keyword">private</span> <a class="code hl_class" href="class_model_controller.html">ModelController</a> <a class="code hl_variable" href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">_llmController</a> = <span class="keyword">null</span>;</div>
-<div class="line">    <span class="keyword">private</span> <span class="keywordtype">void</span> <a class="code hl_function" href="class_minimal_example.html#a3a9cb32f2a8522aa2a5174d8d12732f3">Start</a>()</div>
+<div class="line">    <span class="keyword">private</span> ModelController _llmController = <span class="keyword">null</span>;</div>
+<div class="line">    <span class="keyword">private</span> <span class="keywordtype">void</span> Start()</div>
 <div class="line">    {</div>
-<div class="line">        <a class="code hl_variable" href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">_llmController</a> = <span class="keyword">new</span> <a class="code hl_class" href="class_model_controller.html">ModelController</a>(<a class="code hl_variable" href="class_minimal_example.html#a43f5e032b5f2929000d48902f7de9341">binaryFileAsset</a>);</div>
-<div class="line">        StartCoroutine(<a class="code hl_function" href="class_minimal_example.html#a6fcfb230b695e8538e9269424221cd81">GenerateLine</a>());</div>
+<div class="line">        _llmController = <span class="keyword">new</span> ModelController(binaryFileAsset);</div>
+<div class="line">        StartCoroutine(GenerateLine());</div>
 <div class="line">    }</div>
 <div class="line"> </div>
-<div class="line">    <span class="keyword">private</span> IEnumerator <a class="code hl_function" href="class_minimal_example.html#a6fcfb230b695e8538e9269424221cd81">GenerateLine</a>()</div>
+<div class="line">    <span class="keyword">private</span> IEnumerator GenerateLine()</div>
 <div class="line">    {</div>
 <div class="line">        <span class="keywordtype">string</span> line = <span class="stringliteral">&quot;I love you!&quot;</span>;</div>
 <div class="line">        <span class="keywordtype">string</span> style = <span class="stringliteral">&quot;Simple, Confident, Shakespearean&quot;</span>;</div>
 <div class="line"> </div>
 <div class="line">        var prompt = $<span class="stringliteral">&quot;&lt;input&gt; {line} &lt;inputEnds&gt;\\n&lt;style&gt; {style} &lt;styleEnds&gt;\\n&lt;output&gt;&quot;</span>;</div>
-<div class="line">        var <span class="keywordtype">id</span> = <a class="code hl_variable" href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">_llmController</a>.<a class="code hl_variable" href="class_model_controller.html#a701f96f52a85761d2c332442922bb994">model</a>.<a class="code hl_function" href="class_llama_library_1_1_async_llama_infrence.html#ae80455f9b59fac152fa35e01470fd8d1">GenerateAsync</a>(prompt);</div>
+<div class="line">        var <span class="keywordtype">id</span> = _llmController.model.GenerateAsync(prompt);</div>
 <div class="line"> </div>
-<div class="line">        <span class="keywordflow">while</span> (!<a class="code hl_variable" href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">_llmController</a>.<a class="code hl_variable" href="class_model_controller.html#a701f96f52a85761d2c332442922bb994">model</a>.<a class="code hl_function" href="class_llama_library_1_1_async_llama_infrence.html#a66a87fa4eb3794b3069e7470a1be66ce">IsGenerationReady</a>(<span class="keywordtype">id</span>))</div>
+<div class="line">        <span class="keywordflow">while</span> (!_llmController.model.IsGenerationReady(<span class="keywordtype">id</span>))</div>
 <div class="line">        {</div>
 <div class="line">            yield <span class="keywordflow">return</span> <span class="keyword">new</span> WaitForSeconds(0.3f);</div>
 <div class="line">        }</div>
 <div class="line"> </div>
-<div class="line">        <span class="keywordtype">string</span> result = <a class="code hl_variable" href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">_llmController</a>.<a class="code hl_variable" href="class_model_controller.html#a701f96f52a85761d2c332442922bb994">model</a>.<a class="code hl_function" href="class_llama_library_1_1_async_llama_infrence.html#a74d73cee873a2080edfa0d915f367d30">GetGenerationResults</a>(<span class="keywordtype">id</span>);</div>
-<div class="line">        result = <a class="code hl_class" href="class_model_controller.html">ModelController</a>.<a class="code hl_function" href="class_model_controller.html#aab6e1807c1b6ee25a9a1d28028caec1a">ExtractFirstPart</a>(result, <span class="stringliteral">&quot;&lt;out&quot;</span>);</div>
+<div class="line">        <span class="keywordtype">string</span> result = _llmController.model.GetGenerationResults(<span class="keywordtype">id</span>);</div>
+<div class="line">        result = ModelController.ExtractFirstPart(result, <span class="stringliteral">&quot;&lt;out&quot;</span>);</div>
 <div class="line">        <a class="code hl_typedef" href="_run_model_async_8cs.html#a0100be52d45f14348918ea69ec09f959">Debug</a>.Log(result); <span class="comment">// prints out something like &quot;My heart is boundless with affection!&quot;</span></div>
 <div class="line">    }</div>
 <div class="line">}</div>
-<div class="ttc" id="a_run_model_async_8cs_html_a0100be52d45f14348918ea69ec09f959"><div class="ttname"><a href="_run_model_async_8cs.html#a0100be52d45f14348918ea69ec09f959">Debug</a></div><div class="ttdeci">UnityEngine.Debug Debug</div><div class="ttdef"><b>Definition</b> RunModelAsync.cs:6</div></div>
-<div class="ttc" id="aclass_binary_asset_html"><div class="ttname"><a href="class_binary_asset.html">BinaryAsset</a></div><div class="ttdef"><b>Definition</b> BinaryAsset.cs:5</div></div>
-<div class="ttc" id="aclass_llama_library_1_1_async_llama_infrence_html_a66a87fa4eb3794b3069e7470a1be66ce"><div class="ttname"><a href="class_llama_library_1_1_async_llama_infrence.html#a66a87fa4eb3794b3069e7470a1be66ce">LlamaLibrary.AsyncLlamaInfrence.IsGenerationReady</a></div><div class="ttdeci">bool IsGenerationReady(int task_id)</div><div class="ttdef"><b>Definition</b> AsyncLlamaInfrence.cs:63</div></div>
-<div class="ttc" id="aclass_llama_library_1_1_async_llama_infrence_html_a74d73cee873a2080edfa0d915f367d30"><div class="ttname"><a href="class_llama_library_1_1_async_llama_infrence.html#a74d73cee873a2080edfa0d915f367d30">LlamaLibrary.AsyncLlamaInfrence.GetGenerationResults</a></div><div class="ttdeci">string GetGenerationResults(int task_id)</div><div class="ttdef"><b>Definition</b> AsyncLlamaInfrence.cs:68</div></div>
-<div class="ttc" id="aclass_llama_library_1_1_async_llama_infrence_html_ae80455f9b59fac152fa35e01470fd8d1"><div class="ttname"><a href="class_llama_library_1_1_async_llama_infrence.html#ae80455f9b59fac152fa35e01470fd8d1">LlamaLibrary.AsyncLlamaInfrence.GenerateAsync</a></div><div class="ttdeci">int GenerateAsync(string prompt)</div><div class="ttdef"><b>Definition</b> AsyncLlamaInfrence.cs:57</div></div>
-<div class="ttc" id="aclass_minimal_example_html"><div class="ttname"><a href="class_minimal_example.html">MinimalExample</a></div><div class="ttdef"><b>Definition</b> MinimalExample.cs:5</div></div>
-<div class="ttc" id="aclass_minimal_example_html_a3a9cb32f2a8522aa2a5174d8d12732f3"><div class="ttname"><a href="class_minimal_example.html#a3a9cb32f2a8522aa2a5174d8d12732f3">MinimalExample.Start</a></div><div class="ttdeci">void Start()</div><div class="ttdoc">The Start method is called when the script instance is being loaded. It initializes the ModelControll...</div><div class="ttdef"><b>Definition</b> MinimalExample.cs:22</div></div>
-<div class="ttc" id="aclass_minimal_example_html_a43f5e032b5f2929000d48902f7de9341"><div class="ttname"><a href="class_minimal_example.html#a43f5e032b5f2929000d48902f7de9341">MinimalExample.binaryFileAsset</a></div><div class="ttdeci">BinaryAsset binaryFileAsset</div><div class="ttdoc">Public variable to hold a reference to the binary asset containing the model's data.</div><div class="ttdef"><b>Definition</b> MinimalExample.cs:9</div></div>
-<div class="ttc" id="aclass_minimal_example_html_a6fcfb230b695e8538e9269424221cd81"><div class="ttname"><a href="class_minimal_example.html#a6fcfb230b695e8538e9269424221cd81">MinimalExample.GenerateLine</a></div><div class="ttdeci">IEnumerator GenerateLine()</div><div class="ttdoc">Coroutine to handle the asynchronous generation of text from the language model. Coroutines allow the...</div><div class="ttdef"><b>Definition</b> MinimalExample.cs:37</div></div>
-<div class="ttc" id="aclass_minimal_example_html_a855485ea6264c0cfa519cdb862314866"><div class="ttname"><a href="class_minimal_example.html#a855485ea6264c0cfa519cdb862314866">MinimalExample._llmController</a></div><div class="ttdeci">ModelController _llmController</div><div class="ttdoc">Private variable to hold an instance of the ModelController class. This controller will manage the in...</div><div class="ttdef"><b>Definition</b> MinimalExample.cs:16</div></div>
-<div class="ttc" id="aclass_model_controller_html"><div class="ttname"><a href="class_model_controller.html">ModelController</a></div><div class="ttdef"><b>Definition</b> ModelController.cs:6</div></div>
-<div class="ttc" id="aclass_model_controller_html_a701f96f52a85761d2c332442922bb994"><div class="ttname"><a href="class_model_controller.html#a701f96f52a85761d2c332442922bb994">ModelController.model</a></div><div class="ttdeci">AsyncLlamaInfrence model</div><div class="ttdoc">Instance of the AsyncLlamaInference model used for generating responses asynchronously.</div><div class="ttdef"><b>Definition</b> ModelController.cs:10</div></div>
-<div class="ttc" id="aclass_model_controller_html_aab6e1807c1b6ee25a9a1d28028caec1a"><div class="ttname"><a href="class_model_controller.html#aab6e1807c1b6ee25a9a1d28028caec1a">ModelController.ExtractFirstPart</a></div><div class="ttdeci">static string ExtractFirstPart(string input, string stopText)</div><div class="ttdoc">Static method to extract the first part of a string up to a specified stop text. If the stop text is ...</div><div class="ttdef"><b>Definition</b> ModelController.cs:78</div></div>
+<div class="ttc" id="a_run_model_async_8cs_html_a0100be52d45f14348918ea69ec09f959"><div class="ttname"><a href="_run_model_async_8cs.html#a0100be52d45f14348918ea69ec09f959">Debug</a></div><div class="ttdeci">UnityEngine.Debug Debug</div><div class="ttdef"><b>Definition</b> RunModelAsync.cs:8</div></div>
+<div class="ttc" id="aclass_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset_html"><div class="ttname"><a href="class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset.html">Assets.StyledLines.Runtime.ModelFilesUI.BinaryAsset</a></div><div class="ttdef"><b>Definition</b> BinaryAsset.cs:7</div></div>
+<div class="ttc" id="anamespace_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_html"><div class="ttname"><a href="namespace_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i.html">Assets.StyledLines.Runtime.ModelFilesUI</a></div><div class="ttdef"><b>Definition</b> BasicGptParamsSettings.cs:5</div></div>
 </div><!-- fragment --><h2><a class="anchor" id="autotoc_md10"></a>
 Types to First Take a Look At</h2>
 <ol type="1">
-<li><p class="startli"><b><a class="el" href="class_model_controller.html">ModelController</a></b> <br  />
+<li><p class="startli"><b><a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html">ModelController</a></b> <br  />
  <b>Description:</b> <br  />
- The <code><a class="el" href="class_model_controller.html">ModelController</a></code> class is responsible for setting up and configuring the Llama model for inference. It handles loading model parameters, registering necessary callbacks, and managing the context for the inference operations. This class is foundational for configuring the model and ensuring it is ready for use in various tasks.</p>
+ The <code>ModelController</code> class is responsible for setting up and configuring the Llama model for inference. It handles loading model parameters, registering necessary callbacks, and managing the context for the inference operations. This class is foundational for configuring the model and ensuring it is ready for use in various tasks.</p>
 <p class="startli"><b>Why it's Important:</b> <br  />
- Understanding how to configure and control the Llama model is critical, and <code><a class="el" href="class_model_controller.html">ModelController</a></code> provides the tools to do just that. It's the backbone of the model configuration process, enabling the proper setup of inference parameters and ensuring the model operates as expected.</p>
+ Understanding how to configure and control the Llama model is critical, and <code>ModelController</code> provides the tools to do just that. It's the backbone of the model configuration process, enabling the proper setup of inference parameters and ensuring the model operates as expected.</p>
 <p class="startli"><b>References:</b> <br  />
 </p><ul>
-<li>Class: <a class="el" href="class_model_controller.html">ModelController</a> <br  />
+<li>Class: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html">ModelController</a> <br  />
 </li>
-<li>Methods: <a class="el" href="class_model_controller.html#aab6e1807c1b6ee25a9a1d28028caec1a">ExtractFirstPart</a>, <a class="el" href="class_model_controller.html#aa55aede9a4107d8f32196d1237494749">GetTempPath</a></li>
+<li>Methods: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c">ExtractFirstPart</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#a46681d90514c97a90a91a9d0777e4fe4">GetTempPath</a></li>
 </ul>
 </li>
-<li><p class="startli"><b><a class="el" href="class_llama_library_1_1_callback_wrapper.html">CallbackWrapper</a></b> <br  />
+<li><p class="startli"><b><a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html">CallbackWrapper</a></b> <br  />
  <b>Description:</b> <br  />
  This static class serves as a bridge between the native library and the managed code, allowing you to register and handle callbacks for logging, token generation, and completion events. It is essential for capturing and responding to various model events during inference operations.</p>
 <p class="startli"><b>Why it's Important:</b> <br  />
  Callbacks are critical in asynchronous programming, especially when dealing with model inference. <code>CallbackWrapper</code> allows you to handle these callbacks effectively, enabling responsive and interactive model operations. Without this class, integrating with native library callbacks would be cumbersome and error-prone.</p>
 <p class="startli"><b>References:</b> <br  />
 </p><ul>
-<li>Class: <a class="el" href="class_llama_library_1_1_callback_wrapper.html">CallbackWrapper</a> <br  />
+<li>Class: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html">CallbackWrapper</a> <br  />
 </li>
-<li>Methods: <a class="el" href="class_llama_library_1_1_callback_wrapper.html#a4206d466b5e3e4a6c95c04e2df4640ce">RegisterLogCallback</a>, <a class="el" href="class_llama_library_1_1_callback_wrapper.html#a0411b900ff40cd0edb74d7465232241c">RegisterTokenCallback</a>, <a class="el" href="class_llama_library_1_1_callback_wrapper.html#a353d1a08774ce45047d6651294fbc77a">RegisterCompletionCallback</a></li>
+<li>Methods: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#abd96cb93684352bd76e733d4907a19f9">RegisterLogCallback</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#ac94cfbc5b52ab58117b391e3ccb69bbe">RegisterTokenCallback</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#a179d4d8c24348da755b4caa4ebec3871">RegisterCompletionCallback</a></li>
 </ul>
 </li>
-<li><p class="startli"><b><a class="el" href="class_run_model_async.html">RunModelAsync</a></b> <br  />
+<li><p class="startli"><b><a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html">RunModelAsync</a></b> <br  />
  <b>Description:</b> <br  />
- This class is detailed example on managing the lifecycle of asynchronous model generation tasks. It handles initialization, generation, and the state transitions of the Llama model, showing how to run and control the model. The <code><a class="el" href="class_run_model_async.html">RunModelAsync</a></code> class also provides methods to monitor and manage model outputs, log handling, and event dispatching.</p>
+ This class is detailed example on managing the lifecycle of asynchronous model generation tasks. It handles initialization, generation, and the state transitions of the Llama model, showing how to run and control the model. The <code>RunModelAsync</code> class also provides methods to monitor and manage model outputs, log handling, and event dispatching.</p>
 <p class="startli"><b>Why it's Important:</b> <br  />
  If you're working with asynchronous operations and need to manage the state and lifecycle of model inference, this class is your go-to. It encapsulates all the necessary functionality to start, monitor, and stop model tasks in an asynchronous environment, making it essential for any non-blocking operations.</p>
 <p class="startli"><b>References:</b> <br  />
 </p><ul>
-<li>Class: <a class="el" href="class_run_model_async.html">RunModelAsync</a> <br  />
+<li>Class: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html">RunModelAsync</a> <br  />
 </li>
-<li>State Enumeration: <a class="el" href="class_run_model_async.html#a666ca4eeb7101160295c3b950780d53b">RunModelAsync.State</a> <br  />
+<li>State Enumeration: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a48eb3d2d8aee640cc472403bab2a6b4b">RunModelAsync.State</a> <br  />
 </li>
-<li>Methods: <a class="el" href="class_run_model_async.html#a1930b9ec036ea1c2477962be708874a2">Generate</a>, <a class="el" href="class_run_model_async.html#a4048431f59a00b4f27333815ecfaa0ce">DoSetup</a>, <a class="el" href="class_run_model_async.html#a57b42f3e7a40dd687a32b1e62f2ce96a">Start</a>, <a class="el" href="class_run_model_async.html#a416b9916ecea216a4a454df6993acb1f">Update</a></li>
+<li>Methods: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a788947d76476ab17b741e3df3d13de95">Generate</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#af757f7efeb4be3710ca96fadcec9408c">DoSetup</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a93352c3bc627fe14cf66719b7de80e87">Start</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#aabe6cc4182e4b6029714bff7b9076a34">Update</a></li>
 </ul>
 </li>
-<li><p class="startli"><b><a class="el" href="class_dialog_manager.html">DialogManager</a></b> <br  />
+<li><p class="startli"><b><a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html">DialogManager</a></b> <br  />
  <b>Description:</b> <br  />
- The <code><a class="el" href="class_dialog_manager.html">DialogManager</a></code> class is an example designed to manage dialog interactions between characters in a scene. It processes dialog scripts, assigns styles to character speech, and handles the display of text above characters using Unity's TextMeshPro. This class integrates with the Llama model to dynamically generate character speech based on predefined styles and input text.</p>
+ The <code>DialogManager</code> class is an example designed to manage dialog interactions between characters in a scene. It processes dialog scripts, assigns styles to character speech, and handles the display of text above characters using Unity's TextMeshPro. This class integrates with the Llama model to dynamically generate character speech based on predefined styles and input text.</p>
 <p class="startli"><b>Why it's Important:</b> <br  />
- <code><a class="el" href="class_dialog_manager.html">DialogManager</a></code> is essential if you're creating interactive scenes or narrative-driven content where characters engage in dialog. It automates the process of managing dialog sequences, ensuring smooth transitions and dynamic content generation.</p>
+ <code>DialogManager</code> is essential if you're creating interactive scenes or narrative-driven content where characters engage in dialog. It automates the process of managing dialog sequences, ensuring smooth transitions and dynamic content generation.</p>
 <p class="startli"><b>References:</b> <br  />
 </p><ul>
-<li>Class: <a class="el" href="class_dialog_manager.html">DialogManager</a> <br  />
+<li>Class: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html">DialogManager</a> <br  />
 </li>
-<li>Methods: <a class="el" href="class_dialog_manager.html#ad32c4cce175c0c1b0f15049695fa7948">StartDialog</a>, <a class="el" href="class_dialog_manager.html#a58ce81209f0fe6b90708dc9503bc97cd">ShowNextLine</a>, <a class="el" href="class_dialog_manager.html#ab0c342d16b660dc18f0b066a8dd3c832">ReparseDialogAndStyles</a></li>
+<li>Methods: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a38b321d8b3be72540eab19e2617352b5">StartDialog</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a5f8f765bf2bba39f00acbfe9d5adab95">ShowNextLine</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#aace0d2b97d89e6892a4738f1e8c8412f">ReparseDialogAndStyles</a></li>
 </ul>
 </li>
-<li><p class="startli"><b><a class="el" href="class_minimal_example.html">MinimalExample</a></b> <br  />
+<li><p class="startli"><b><a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html">MinimalExample</a></b> <br  />
  <b>Description:</b> <br  />
- The <code><a class="el" href="class_minimal_example.html">MinimalExample</a></code> class is a simple demonstration of how to set up and use the <code><a class="el" href="class_model_controller.html">ModelController</a></code> to generate text asynchronously. It initializes the model with a binary asset, sends a prompt for text generation, and outputs the generated text to the Unity console.</p>
+ The <code>MinimalExample</code> class is a simple demonstration of how to set up and use the <code>ModelController</code> to generate text asynchronously. It initializes the model with a binary asset, sends a prompt for text generation, and outputs the generated text to the Unity console.</p>
 <p class="startli"><b>Why it's Important:</b> <br  />
  This class provides a basic, hands-on example of how to get started with the <a class="el" href="namespace_llama_library.html">LlamaLibrary</a>. It's perfect for beginners who want to see the basics of model interaction in action without diving into more complex systems.</p>
 <p class="startli"><b>References:</b> <br  />
 </p><ul>
-<li>Class: <a class="el" href="class_minimal_example.html">MinimalExample</a> <br  />
+<li>Class: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html">MinimalExample</a> <br  />
 </li>
-<li>Methods: <a class="el" href="class_minimal_example.html#a3a9cb32f2a8522aa2a5174d8d12732f3">Start</a>, <a class="el" href="class_minimal_example.html#a6fcfb230b695e8538e9269424221cd81">GenerateLine</a> </li>
+<li>Methods: <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html#aaed938d97be4e225c763c1eaf666bf26">Start</a>, <a class="el" href="class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_minimal_example.html#aa2c607981a96d13a2edbc95d47a87282">GenerateLine</a> </li>
 </ul>
 </li>
 </ol>
@@ -274,6 +266,14 @@ Types to First Take a Look At</h2>
 <a href="doxygen_crawl.html"/>
 </div><!-- contents -->
 </div><!-- doc-content -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FVWLBH4VQZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FVWLBH4VQZ');
+</script>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="footer"> <a href="https://testedlines.com/">Visit Tested Lines website!</a> </li>

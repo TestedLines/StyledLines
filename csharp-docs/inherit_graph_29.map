@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$class_run_model_async_1_1_thread_safe_string.html" title="A thread&#45;safe string wrapper to ensure safe access and modification from multiple threads." alt="" coords="5,5,225,31"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000001" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_basic_gpt_params_settings.html" title=" " alt="" coords="172,5,589,31"/>
+<area shape="poly" id="edge47_Node000000_Node000001" title=" " alt="" coords="138,35,222,28,222,33,138,40"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_model_files_u_i_1_1_binary_asset.html" title=" " alt="" coords="210,55,551,80"/>
+<area shape="poly" id="edge48_Node000000_Node000002" title=" " alt="" coords="138,46,214,52,213,57,138,52"/>
 </map>

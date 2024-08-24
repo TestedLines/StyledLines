@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.Int32s.getCPtr Pages: 1 -->
 <svg width="337pt" height="101pt"
  viewBox="0.00 0.00 337.00 101.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 97)">
 <title>LlamaLibrary.Int32s.getCPtr</title>
 <!-- Node1 -->
@@ -30,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1_int32s.html#a00f82b3d4455f377c690db3e37b33981" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1_int32s.html#a00f82b3d4455f377c690db3e37b33981" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="152.5,-93 3.5,-93 3.5,-74 152.5,-74 152.5,-93"/>
 <text text-anchor="middle" x="78" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.Int32s.AddRange</text>
 </a>
@@ -48,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_llama_library_1_1_int32s.html#ac5d80eaedafc1ba04cacdcb5adabb54d" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="$class_llama_library_1_1_int32s.html#ac5d80eaedafc1ba04cacdcb5adabb54d" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="156,-56 0,-56 0,-37 156,-37 156,-56"/>
 <text text-anchor="middle" x="78" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.Int32s.InsertRange</text>
 </a>
@@ -66,7 +56,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="class_llama_library_1_1_int32s.html#a0d78a51bedc0202da6e98205bf92ec4d" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="$class_llama_library_1_1_int32s.html#a0d78a51bedc0202da6e98205bf92ec4d" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="151.5,-19 4.5,-19 4.5,0 151.5,0 151.5,-19"/>
 <text text-anchor="middle" x="78" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.Int32s.SetRange</text>
 </a>
@@ -82,19 +72,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

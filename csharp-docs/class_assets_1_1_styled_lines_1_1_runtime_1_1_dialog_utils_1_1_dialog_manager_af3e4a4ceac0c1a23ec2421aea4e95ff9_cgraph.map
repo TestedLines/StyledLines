@@ -1,0 +1,11 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.Update" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.Update">
+<area shape="rect" id="Node000001" title="Called every frame; updates dialog progression and rotates text objects to face the camera." alt="" coords="5,31,393,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a5f8f765bf2bba39f00acbfe9d5adab95" title="Coroutine that displays the next line of dialog, handles looping, and manages the dialog&#39;s progressio..." alt="" coords="441,31,872,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,41,428,41,428,46,393,46"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c" title="Static method to extract the first part of a string up to a specified stop text. If the stop text is ..." alt="" coords="920,5,1411,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="872,30,906,28,907,34,872,35"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#abf6ab9ac1cd1f285dbaf97aa03fba779" title="Displays the specified text on the character&#39;s TextMeshPro component." alt="" coords="963,55,1367,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="872,51,950,55,950,60,872,56"/>
+<area shape="rect" id="Node000005" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#a47b62c096fbeba9ef026ca70ab0cea25" title="Coroutine that hides the text by clearing it after a specified delay." alt="" coords="1459,55,1917,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1367,65,1445,65,1445,70,1367,70"/>
+</map>

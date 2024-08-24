@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.Strings.Repeat Pages: 1 -->
 <svg width="496pt" height="101pt"
  viewBox="0.00 0.00 496.00 101.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 97)">
 <title>LlamaLibrary.Strings.Repeat</title>
 <!-- Node1 -->
@@ -30,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="488,-93 176,-93 176,-74 488,-74 488,-93"/>
 <text text-anchor="middle" x="332" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.libllama_libPINVOKE.SWIGPendingException.Retrieve</text>
 </a>
@@ -48,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_llama_library_1_1_strings.html#a0e9e6085bcdc0c9e98034a9cbfbbe9d5" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="$class_llama_library_1_1_strings.html#a0e9e6085bcdc0c9e98034a9cbfbbe9d5" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="402,-56 262,-56 262,-37 402,-37 402,-56"/>
 <text text-anchor="middle" x="332" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.Strings.Strings</text>
 </a>
@@ -66,7 +56,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a8e9aef7521b87dcf0644825a7b521b82" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a8e9aef7521b87dcf0644825a7b521b82" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="450,-19 214,-19 214,0 450,0 450,-19"/>
 <text text-anchor="middle" x="332" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.libllama_libPINVOKE.Strings_Repeat</text>
 </a>
@@ -82,19 +72,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>

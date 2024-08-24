@@ -1,0 +1,9 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.Generate" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.Generate">
+<area shape="rect" id="Node000001" title="Method to start the asynchronous generation process. Triggers the necessary state changes and handles..." alt="" coords="5,31,463,56"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html#ae80455f9b59fac152fa35e01470fd8d1" title=" " alt="" coords="511,31,821,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,41,497,41,497,46,463,46"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#af55b1afde0c97563b362f3a6df224c4e" title=" " alt="" coords="869,5,1309,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="821,31,864,29,864,34,822,37"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" title=" " alt="" coords="881,55,1297,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="822,49,868,52,867,57,821,55"/>
+</map>

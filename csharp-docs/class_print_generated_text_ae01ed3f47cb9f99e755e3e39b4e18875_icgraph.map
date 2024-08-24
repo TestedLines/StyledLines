@@ -1,7 +1,0 @@
-<map id="PrintGeneratedText.OnStateChanged" name="PrintGeneratedText.OnStateChanged">
-<area shape="rect" id="Node000001" title=" " alt="" coords="253,31,491,56"/>
-<area shape="rect" id="Node000002" href="$class_print_generated_text.html#a6f47029e9bf4133730b461956b4a898d" title=" " alt="" coords="5,5,205,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,33,205,30,206,25,240,28"/>
-<area shape="rect" id="Node000003" href="$class_print_generated_text.html#a076e1782f44b8b7a52bbf49164349169" title=" " alt="" coords="22,55,189,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,58,189,63,189,57,239,53"/>
-</map>

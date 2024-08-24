@@ -1,9 +1,9 @@
 <map id="LlamaLibrary.gpt_params.getCPtr" name="LlamaLibrary.gpt_params.getCPtr">
-<area shape="rect" id="Node000001" title=" " alt="" coords="600,31,816,56"/>
-<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html#a7cc223c9533da0f040cfd02d7f944cf6" title=" " alt="" coords="260,31,552,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,46,552,46,552,41,586,41"/>
-<area shape="rect" id="Node000003" href="$class_run_model_async.html#a4048431f59a00b4f27333815ecfaa0ce" title="Method to start the asynchronous setup process for the model. Triggers the necessary state changes an..." alt="" coords="23,5,194,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,32,194,28,194,23,246,27"/>
-<area shape="rect" id="Node000004" href="$class_model_controller.html#a1fc046dc8dd8428ecb7a0c797b423397" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,55,212,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,59,212,62,212,56,246,54"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="883,31,1099,56"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html#a7cc223c9533da0f040cfd02d7f944cf6" title=" " alt="" coords="543,31,835,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,46,835,46,835,41,869,41"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#af757f7efeb4be3710ca96fadcec9408c" title="Method to start the asynchronous setup process for the model. Triggers the necessary state changes an..." alt="" coords="23,5,477,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="528,37,469,33,470,28,528,31"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#a3dce3d5d9c0458ed8193cc4ef9f0d45c" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,55,495,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="529,55,482,57,481,52,529,49"/>
 </map>

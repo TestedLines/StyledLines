@@ -1,3 +1,0 @@
-<map id="RunModelAsync.ThreadSafeString" name="RunModelAsync.ThreadSafeString">
-<area shape="rect" id="Node000001" title="A thread&#45;safe string wrapper to ensure safe access and modification from multiple threads." alt="" coords="5,5,217,111"/>
-</map>

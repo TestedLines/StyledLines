@@ -1,0 +1,5 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.MinimalExample.GenerateLine" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.MinimalExample.GenerateLine">
+<area shape="rect" id="Node000001" title="Coroutine to handle the asynchronous generation of text from the language model. Coroutines allow the..." alt="" coords="5,5,488,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c" title="Static method to extract the first part of a string up to a specified stop text. If the stop text is ..." alt="" coords="536,5,1027,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="488,15,523,15,523,21,488,21"/>
+</map>

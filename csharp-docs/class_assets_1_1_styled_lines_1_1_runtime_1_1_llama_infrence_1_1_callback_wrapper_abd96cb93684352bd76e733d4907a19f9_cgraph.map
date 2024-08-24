@@ -1,0 +1,7 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterLogCallback" name="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterLogCallback">
+<area shape="rect" id="Node000001" title="Registers a log callback function for the Llama model." alt="" coords="5,31,503,56"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#aed9e6b8cd8a918661b8fce6112ea7275" title="Sets the log callback function for the native library." alt="" coords="557,5,1027,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,29,544,27,544,32,503,34"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_1_1_callback_wrapper.html#ae2665b4e70a63797c99f2f3e1efe68ae" title="Static method to handle the log callback from the native library." alt="" coords="551,55,1033,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="503,52,537,53,537,59,503,57"/>
+</map>

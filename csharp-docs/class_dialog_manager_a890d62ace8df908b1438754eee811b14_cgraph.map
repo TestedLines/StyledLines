@@ -1,5 +1,0 @@
-<map id="DialogManager.CreateTextMeshesIfMissing" name="DialogManager.CreateTextMeshesIfMissing">
-<area shape="rect" id="Node000001" title="Ensures that each character has a TextMeshPro component for displaying dialog, creating one if necess..." alt="" coords="5,5,277,31"/>
-<area shape="rect" id="Node000002" href="$class_dialog_manager.html#a2dbc9cbd746843869637aa7b25b66e7d" title="Calculates the combined bounds of all renderers in a character&#39;s GameObject." alt="" coords="325,5,560,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,15,312,15,312,21,278,21"/>
-</map>

@@ -1,7 +1,6 @@
 var namespace_llama_library =
 [
     [ "AsyncLlamaInfrence", "class_llama_library_1_1_async_llama_infrence.html", "class_llama_library_1_1_async_llama_infrence" ],
-    [ "CallbackWrapper", "class_llama_library_1_1_callback_wrapper.html", "class_llama_library_1_1_callback_wrapper" ],
     [ "FileWrapper", "class_llama_library_1_1_file_wrapper.html", "class_llama_library_1_1_file_wrapper" ],
     [ "gpt_params", "class_llama_library_1_1gpt__params.html", "class_llama_library_1_1gpt__params" ],
     [ "Int32s", "class_llama_library_1_1_int32s.html", "class_llama_library_1_1_int32s" ],

@@ -1,0 +1,13 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.DoSetup" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.DoSetup">
+<area shape="rect" id="Node000001" title="Method to start the asynchronous setup process for the model. Triggers the necessary state changes an..." alt="" coords="5,80,460,105"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_async_llama_infrence.html#a7cc223c9533da0f040cfd02d7f944cf6" title=" " alt="" coords="508,80,800,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,90,494,90,494,95,460,95"/>
+<area shape="rect" id="Node000003" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a3e629604030c518ff63457e5c5d03455" title=" " alt="" coords="848,5,1269,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="696,77,766,58,847,39,908,30,909,35,849,45,768,63,697,83"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1gpt__params.html#a352b93d1ce986af8f726ebc0643f2825" title=" " alt="" coords="951,55,1167,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="800,81,936,72,937,78,801,86"/>
+<area shape="rect" id="Node000005" href="$class_llama_library_1_1_logging_context.html#a8af2a946a9ffc74d4f17f897e781437d" title=" " alt="" coords="939,104,1178,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="801,99,926,106,925,111,800,104"/>
+<area shape="rect" id="Node000006" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e_1_1_s_w_i_g_pending_exception.html#a2718a73540850b42db7c89e9be3519ec" title=" " alt="" coords="851,153,1267,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="700,103,770,121,848,138,918,149,917,154,848,143,769,126,699,108"/>
+</map>

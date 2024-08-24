@@ -1,0 +1,11 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.Update" name="Assets.StyledLines.Runtime.LlamaInfrenceUnity.RunModelAsync.Update">
+<area shape="rect" id="Node000001" title="Method called every frame to update the state of the model and handle output." alt="" coords="5,55,451,80"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#af61c777c48182d3bec3f6c1dd3d36e8c" title="Static method to extract the first part of a string up to a specified stop text. If the stop text is ..." alt="" coords="557,5,1048,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,52,498,39,622,29,622,34,499,45,360,57"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async_1_1_thread_safe_string.html#a4a88b802a099b937bb965d8fb395079d" title="Method to retrieve the current data and clear it in a thread&#45;safe manner." alt="" coords="499,55,1107,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,65,485,65,485,70,451,70"/>
+<area shape="rect" id="Node000004" href="$class_llama_library_1_1_async_llama_infrence.html#a74d73cee873a2080edfa0d915f367d30" title=" " alt="" coords="628,104,977,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,77,499,89,634,100,634,105,498,94,370,83"/>
+<area shape="rect" id="Node000005" href="$class_llama_library_1_1libllama__lib_p_i_n_v_o_k_e.html#a2bdcb309c17221cae862eee0ad62128e" title=" " alt="" coords="1155,104,1633,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="977,114,1141,114,1141,119,977,119"/>
+</map>

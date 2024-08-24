@@ -1,9 +1,9 @@
 <map id="LlamaLibrary.libllama_libPINVOKE.FileWrapper_Save__SWIG_0" name="LlamaLibrary.libllama_libPINVOKE.FileWrapper_Save__SWIG_0">
-<area shape="rect" id="Node000001" title=" " alt="" coords="511,31,905,56"/>
-<area shape="rect" id="Node000002" href="$class_llama_library_1_1_file_wrapper.html#adf3f8c97164d49fd35efa91f740005a4" title=" " alt="" coords="260,31,463,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,46,463,46,463,41,497,41"/>
-<area shape="rect" id="Node000003" href="$class_model_controller.html#a1fc046dc8dd8428ecb7a0c797b423397" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,5,212,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,34,212,31,213,26,247,29"/>
-<area shape="rect" id="Node000004" href="$class_run_model_async.html#a57b42f3e7a40dd687a32b1e62f2ce96a" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="34,55,183,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="246,57,184,63,183,58,246,52"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="793,31,1188,56"/>
+<area shape="rect" id="Node000002" href="$class_llama_library_1_1_file_wrapper.html#adf3f8c97164d49fd35efa91f740005a4" title=" " alt="" coords="543,31,745,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,46,745,46,745,41,780,41"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_model_controller.html#a3dce3d5d9c0458ed8193cc4ef9f0d45c" title="Constructor for initializing the ModelController with a binary asset. The constructor sets up the mod..." alt="" coords="5,5,495,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,39,447,33,447,28,529,33"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a93352c3bc627fe14cf66719b7de80e87" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="34,55,466,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="529,53,458,57,458,52,529,48"/>
 </map>

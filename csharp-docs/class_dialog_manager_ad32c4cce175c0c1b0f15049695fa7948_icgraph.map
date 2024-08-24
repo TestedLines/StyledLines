@@ -1,5 +1,0 @@
-<map id="DialogManager.StartDialog" name="DialogManager.StartDialog">
-<area shape="rect" id="Node000001" title="Starts the dialog sequence, setting the initial index and activating the dialog." alt="" coords="193,5,369,31"/>
-<area shape="rect" id="Node000002" href="$class_dialog_manager.html#a03c8a9834097fe6f3c636076a97563c8" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,5,145,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,21,145,21,145,15,180,15"/>
-</map>

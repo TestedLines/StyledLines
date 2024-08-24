@@ -12,8 +12,8 @@ var searchData=
   ['spm_5finfill_9',['spm_infill',['../class_llama_library_1_1gpt__params.html#abf2dbdc815cd573f1cf2232d517c42b5',1,'LlamaLibrary::gpt_params']]],
   ['ssl_5ffile_5fcert_10',['ssl_file_cert',['../class_llama_library_1_1gpt__params.html#a89808b724e196f2b7c13a2f71d1c90d1',1,'LlamaLibrary::gpt_params']]],
   ['ssl_5ffile_5fkey_11',['ssl_file_key',['../class_llama_library_1_1gpt__params.html#a9561419757c2549d9080f4f414b7dc03',1,'LlamaLibrary::gpt_params']]],
-  ['stoptext_12',['StopText',['../class_run_model_async.html#ae26abcc0c81003e03e8f5197f0694128',1,'RunModelAsync']]],
-  ['streamlogs_13',['StreamLogs',['../class_run_model_async.html#a94a3e7616cd27c9b2d1b11d465c80b2d',1,'RunModelAsync']]],
-  ['streamoutput_14',['StreamOutput',['../class_run_model_async.html#a1389886ff68fb8de4a0c98db2ad48036',1,'RunModelAsync']]],
+  ['stoptext_12',['StopText',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a2727833535d996de8f2619c713312c5e',1,'Assets::StyledLines::Runtime::LlamaInfrenceUnity::RunModelAsync']]],
+  ['streamlogs_13',['StreamLogs',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#aefac15d56e763f9330a49f89eff4abf1',1,'Assets::StyledLines::Runtime::LlamaInfrenceUnity::RunModelAsync']]],
+  ['streamoutput_14',['StreamOutput',['../class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a873654a1b183b5c46336aa1c73280458',1,'Assets::StyledLines::Runtime::LlamaInfrenceUnity::RunModelAsync']]],
   ['system_5fprompt_15',['system_prompt',['../class_llama_library_1_1gpt__params.html#a8468f78abf53f6c2f7257f5072c6e1d9',1,'LlamaLibrary::gpt_params']]]
 ];

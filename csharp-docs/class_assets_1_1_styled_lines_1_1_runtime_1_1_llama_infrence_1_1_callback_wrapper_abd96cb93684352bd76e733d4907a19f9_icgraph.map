@@ -1,0 +1,5 @@
+<map id="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterLogCallback" name="Assets.StyledLines.Runtime.LlamaInfrence.CallbackWrapper.RegisterLogCallback">
+<area shape="rect" id="Node000001" title="Registers a log callback function for the Llama model." alt="" coords="485,5,983,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_llama_infrence_unity_1_1_run_model_async.html#a93352c3bc627fe14cf66719b7de80e87" title="Method called at the start of the MonoBehaviour&#39;s lifecycle. Initializes the model,..." alt="" coords="5,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,21,438,21,438,15,472,15"/>
+</map>

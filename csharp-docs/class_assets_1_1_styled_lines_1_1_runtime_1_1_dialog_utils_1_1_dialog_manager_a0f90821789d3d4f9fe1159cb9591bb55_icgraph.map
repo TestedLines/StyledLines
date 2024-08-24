@@ -1,0 +1,5 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.CreateTextMeshesIfMissing" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.CreateTextMeshesIfMissing">
+<area shape="rect" id="Node000001" title="Ensures that each character has a TextMeshPro component for displaying dialog, creating one if necess..." alt="" coords="428,5,935,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#ab96fbfc2e535bb4e1a20307702926a9b" title="Called when the script starts; initializes the model controller, parses the dialog,..." alt="" coords="5,5,380,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,21,380,21,380,15,414,15"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ReparseDialogAndStyles" name="Assets.StyledLines.Runtime.DialogUtils.DialogManager.ReparseDialogAndStyles">
+<area shape="rect" id="Node000001" title="Re&#45;parses the dialog and styles when the dialog text changes." alt="" coords="5,5,496,31"/>
+<area shape="rect" id="Node000002" href="$class_assets_1_1_styled_lines_1_1_runtime_1_1_dialog_utils_1_1_dialog_manager.html#ab340ac66153bf61473e645a07bcd5004" title="Parses the dialog text into individual lines based on a specific format." alt="" coords="544,5,961,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,15,531,15,531,21,496,21"/>
+</map>

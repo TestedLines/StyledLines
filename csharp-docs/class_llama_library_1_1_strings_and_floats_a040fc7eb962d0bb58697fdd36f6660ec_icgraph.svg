@@ -6,16 +6,6 @@
 <!-- Title: LlamaLibrary.StringsAndFloats.Add Pages: 1 -->
 <svg width="442pt" height="64pt"
  viewBox="0.00 0.00 442.00 64.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
-<style type="text/css"><![CDATA[
-.node, .edge {opacity: 0.7;}
-.node.selected, .edge.selected {opacity: 1;}
-.edge:hover path { stroke: red; }
-.edge:hover polygon { stroke: red; fill: red; }
-]]></style>
-<script type="application/ecmascript" xlink:href="svg.min.js"/>
-<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 60)">
 <title>LlamaLibrary.StringsAndFloats.Add</title>
 <!-- Node1 -->
@@ -30,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_llama_library_1_1_strings_and_floats.html#a5c9646133ce9277eb6e9ff67f73c77fc" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="$class_llama_library_1_1_strings_and_floats.html#a5c9646133ce9277eb6e9ff67f73c77fc" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="228,-56 0,-56 0,-37 228,-37 228,-56"/>
 <text text-anchor="middle" x="114" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.StringsAndFloats.StringsAndFloats</text>
 </a>
@@ -48,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_llama_library_1_1_strings_and_floats.html#a8b5e4d9199d5843ed34e475c4e363936" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="$class_llama_library_1_1_strings_and_floats.html#a8b5e4d9199d5843ed34e475c4e363936" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="228,-19 0,-19 0,0 228,0 228,-19"/>
 <text text-anchor="middle" x="114" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LlamaLibrary.StringsAndFloats.StringsAndFloats</text>
 </a>
@@ -64,19 +54,4 @@
 </g>
 </g>
 </g>
-</svg>
-</svg>
-
-<style type='text/css'>
-<![CDATA[
-[data-mouse-over-selected='false'] { opacity: 0.7; }
-[data-mouse-over-selected='true']  { opacity: 1.0; }
-]]>
-</style>
-<script type="application/ecmascript"><![CDATA[
-document.addEventListener('DOMContentLoaded', (event) => {
-  highlightEdges();
-  highlightAdjacentNodes();
-});
-]]></script>
 </svg>
